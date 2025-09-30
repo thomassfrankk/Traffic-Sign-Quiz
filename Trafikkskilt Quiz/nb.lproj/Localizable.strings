@@ -1,0 +1,74 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+"Traffic Sign Quiz" = "Trafikkskilt Quiz";
+"Regular Quiz" = "Vanlig Quiz";
+"Time Challenge" = "Mot klokken";
+"All Signs" = "Alle skilt";
+
+"Decide how many signs you want to be tested on. The signs will be chosen randomly from all categories." = "Bestem hvor mange skilt du vil testes på. Skiltene velges tilfeldig fra alle kategorier.";
+
+"Choose how long you want to play and answer as many signs as you can before time runs out." = "Velg hvor lenge du vil spille og svar på så mange skilt du kan før tiden går ut.";
+
+"Explore all traffic signs. Choose a category and test your knowledge." = "Utforsk alle trafikkskilt. Velg en kategori og se hvor mye du kan.";
+
+"Norway" = "Norge";
+
+"signs" = "skilt";
+"minute" = "minutt";
+"minutes" = "minutter";
+"minute challenge singular" = "minutts utfordring";
+"minute challenge plural" = "minutters utfordring";
+"Test your skills" = "Test dine ferdigheter";
+"START QUIZ" = "START QUIZ";
+
+"Exit quiz?" = "Avslutte quiz?";
+"Cancel" = "Avbryt";
+"Exit" = "Avslutt";
+"You will lose your progress in this quiz." = "Du vil miste fremgangen i denne quizzen.";
+
+"Time’s Up!" = "Tiden er ute!";
+"Quiz Complete" = "Quiz fullført";
+"You answered" = "Du svarte";
+"questions correctly" = "riktige svar";
+"correct" = "riktig";
+"New High Score!" = "Ny toppscore!";
+"High Score:" = "Highscore:";
+"Try Again" = "Prøv igjen";
+"Exit quiz" = "Avslutt quiz";
+
+"Traffic Master" = "Trafikkmester";
+"Highway Hero" = "Veihelt";
+"Learner Driver" = "Øvelsessjåfør";
+"Back to Driving School" = "Tilbake til kjøreskolen";
+
+"Region" = "Region";
+"Country" = "Land";
+"Norway" = "Norge";
+"Sweden" = "Sverige";
+"Denmark" = "Danmark";
+
+"Display Mode" = "Visningsmodus";
+"System" = "System";
+"Light" = "Lyst";
+"Dark" = "Mørkt";
+
+"Game Effects" = "Spilleffekter";
+"Sound Effects" = "Lydeffekter";
+"Haptics" = "Haptikk";
+
+"Premium" = "Premium";
+"You have Premium access" = "Du har Premium-tilgang";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Nyt en reklamefri opplevelse. Takk for at du støtter appen.";
+"Upgrade to Premium" = "Oppgrader til Premium";
+"Support the app and enjoy an ad-free experience" = "Støtt appen og få en reklamefri opplevelse";
+"Remove Ads" = "Fjern reklame";
+"Restore Purchases" = "Gjenopprett kjøp";
+"Loading…" = "Laster…";
+
+"Settings" = "Innstillinger";
+"Loading Settings…" = "Laster inn innstillinger…";

@@ -7,22 +7,30 @@
 
 import SwiftUI
 import SwiftData
+import GoogleMobileAds
 
 @main
 struct Trafikkskilt_QuizApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            GameSettings.self,
+            CountryScores.self   // ← Did you forget this?
         ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
+        
+        let modelConfiguration = ModelConfiguration(schema: schema)
+        
         do {
             return try ModelContainer(for: schema, configurations: [modelConfiguration])
         } catch {
             fatalError("Could not create ModelContainer: \(error)")
         }
     }()
-
+    
+    init() {
+        // ✅ Initialize Google Mobile Ads SDK once at app startup
+        MobileAds.shared.start()
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()

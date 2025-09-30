@@ -1,0 +1,74 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+"Traffic Sign Quiz" = "Traffic Sign Quiz";
+"Regular Quiz" = "Regular Quiz";
+"Time Challenge" = "Time Challenge";
+"All Signs" = "All Signs";
+
+"Decide how many signs you want to be tested on. The signs will be chosen randomly from all categories." = "Decide how many signs you want to be tested on. The signs will be chosen randomly from all categories.";
+
+"Choose how long you want to play and answer as many signs as you can before time runs out." = "Choose how long you want to play and answer as many signs as you can before time runs out.";
+
+"Explore all traffic signs. Choose a category and test your knowledge." = "Explore all traffic signs. Choose a category and test your knowledge.";
+
+"Norway" = "Norway";
+
+"signs" = "signs";
+"minute" = "minute";
+"minutes" = "minutes";
+"minute challenge singular" = "minute challenge";
+"minute challenge plural" = "minutes challenge";
+"Test your skills" = "Test your skills";
+"START QUIZ" = "START QUIZ";
+
+"Exit quiz?" = "Exit quiz?";
+"Cancel" = "Cancel";
+"Exit" = "Exit";
+"You will lose your progress in this quiz." = "You will lose your progress in this quiz.";
+
+"Time’s Up!" = "Time’s Up!";
+"Quiz Complete" = "Quiz Complete";
+"You answered" = "You answered";
+"questions correctly" = "questions correctly";
+"correct" = "correct";
+"New High Score!" = "New Highscore!";
+"High Score:" = "Highscore:";
+"Try Again" = "Try Again";
+"Exit quiz" = "Avslutt quiz";
+
+"Traffic Master" = "Traffic Master";
+"Highway Hero" = "Highway Hero";
+"Learner Driver" = "Learner Driver";
+"Back to Driving School" = "Back to Driving School";
+
+"Region" = "Region";
+"Country" = "Country";
+"Norway" = "Norway";
+"Sweden" = "Sweden";
+"Denmark" = "Denmark";
+
+"Display Mode" = "Display Mode";
+"System" = "System";
+"Light" = "Light";
+"Dark" = "Dark";
+
+"Game Effects" = "Game Effects";
+"Sound Effects" = "Sound Effects";
+"Haptics" = "Haptics";
+
+"Premium" = "Premium";
+"You have Premium access" = "You have Premium access";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Enjoy an ad-free experience. Thank you for supporting the app.";
+"Upgrade to Premium" = "Upgrade to Premium";
+"Support the app and enjoy an ad-free experience" = "Support the app and enjoy an ad-free experience";
+"Remove Ads" = "Remove Ads";
+"Restore Purchases" = "Restore Purchases";
+"Loading…" = "Loading…";
+
+"Settings" = "Settings";
+"Loading Settings…" = "Loading Settings…";
