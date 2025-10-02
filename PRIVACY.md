@@ -1,8 +1,8 @@
-# Privacy Policy for Trafikkskilt Quiz
+# Privacy Policy for Traffic Sign Quiz
 
-Effective date: [Insert date]
+Effective date: October 2, 2025
 
-Trafikkskilt Quiz (“the App”) is developed and maintained by Thomas Oestlyng.
+Traffic Sign Quiz (“the App”) is developed and maintained by Thomas Frank.
 
 We respect your privacy and are committed to protecting it. This Privacy Policy explains how the App handles data.
 
@@ -10,7 +10,7 @@ We respect your privacy and are committed to protecting it. This Privacy Policy 
 
 ## Information Collection and Use
 - **No personal data is collected** by the App itself.
-- The App stores user preferences (e.g., selected country, sound/haptic settings, quiz progress) **locally on your device**.
+- The App stores user preferences (e.g., selected country, sound/haptic settings) **locally on your device**.
 - Data is not shared with us or any third parties, except as described below.
 
 ---
@@ -28,12 +28,6 @@ Purchases are handled securely by **Apple’s App Store**. We do not process or 
 
 ---
 
-## Children’s Privacy
-The App is intended for general audiences and does not knowingly collect personal data from children under 13.  
-Parental controls are recommended if children use the App.
-
----
-
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. Updates will be posted here.
 
@@ -41,5 +35,5 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 
 ## Contact
 If you have questions, please contact:  
-**Thomas Oestlyng**  
-Email: [your email address]
+**Thomas Frank**  
+Email: thomasfrank.apps@gmail.com
