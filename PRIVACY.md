@@ -34,6 +34,7 @@ We may update this Privacy Policy from time to time. Updates will be posted here
 ---
 
 ## Contact
-If you have questions, please contact:  
+If you have questions, please contact:
+
 **Thomas Frank**  
 Email: thomasfrank.apps@gmail.com
