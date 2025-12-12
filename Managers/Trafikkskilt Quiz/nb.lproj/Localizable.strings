@@ -1,0 +1,324 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// Home
+"Traffic Sign Quiz" = "Trafikkskilt Quiz";
+"Let's Play" = "Spill";
+"Training Zone" = "Øvingsbane";
+
+"Language not supported" = "Språket støttes ikke";
+"Use English" = "Bruk engelsk";
+"language_not_supported_for_country" = "%@ støttes ikke for %@.";
+"Translation required" = "Oversettelse kreves";
+"Translate" = "Oversett";
+"use_country" = "Bruk %@";
+"view_content_in_language" = "Vis dette innholdet på %@?";
+"Update complete" = "Oppdatering fullført";
+"Translating" = "Oversetter";
+"Translation complete" = "Oversettelse fullført";
+"Translation failed" = "Oversettelse mislyktes";
+
+// Settings
+"Settings" = "Innstillinger";
+"Loading Settings…" = "Laster inn innstillinger…";
+"Notifications" = "Varsler";
+"Select Language" = "Velg språk";
+"Enable Notifications" = "Aktiver varsler";
+"Allow" = "Tillat";
+"Game Effects" = "Spilleffekter";
+"Sound Effects" = "Lydeffekter";
+"Haptics" = "Haptikk";
+"Premium" = "Premium";
+"You have Premium access" = "Du har Premium-tilgang";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Nyt en reklamefri opplevelse. Takk for at du støtter appen.";
+"Upgrade to Premium" = "Oppgrader til Premium";
+"Support the app and enjoy an ad-free experience" = "Støtt appen og få en reklamefri opplevelse";
+"Remove Ads" = "Fjern reklame";
+"Restore Purchases" = "Gjenopprett kjøp";
+"Loading…" = "Laster…";
+"Privacy Policy" = "Personvern";
+"Read the policy" = "Les personvern";
+"App Version:" = "App-versjon:";
+
+// Country Info View
+"Information" = "Informasjon";
+"Traffic Rules" = "Trafikkregler";
+"Driving Side" = "Kjøreside";
+"Alcohol Limit" = "Promillegrense";
+"Emergency Number" = "Nødsentral";
+"Right" = "Høyre";
+"Left" = "Venstre";
+"Speed Limits" = "Fartsgrenser";
+"These speed limits apply where no other limits are posted. It’s important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Fartsgrensene gjelder der det ikke er satt opp skilt med andre fartsgrenser. Det er viktig å overholde fartsgrensene, og å kjøre etter forholdene ved for eksempel dårlig sikt eller glatt vegbane.";
+"Urban" = "Tettsteder";
+"Rural" = "Landlig";
+"Motorway" = "Motorvei";
+"km/h" = "km/t";
+"mph" = "mph";
+
+// Pick a Game View
+"Pick a Game" = "Velg et spill";
+"Choose Your Drive. Own the road." = "Ta styringen. Erobre veien.";
+"Mixed Quiz" = "Blandet Quiz";
+"Beat the Clock" = "Slå Klokka";
+"Flip & Match" = "Flip & Match";
+"All signs. Section by section. Limited lives." = "Alle skilt. Seksjon for seksjon. Begrenset antall liv.";
+"All signs. Section by section. One life." = "Alle skilt. Seksjon for seksjon. Ett liv.";
+"Random signs. Decreasing time limit. Three Lives." = "Tilfeldige skilt. Synkende svarstid. Tre liv.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Følg tiden. Hold tempoet. Tjen eller mist sekunder.";
+"Flip the cards. Find the match. Test your memory." = "Vend kortene. Finn samsvarende. Test hukommelsen din.";
+"Play" = "Spill";
+"HIGH SCORE: %d SIGNS" = "REKORD: %d SKILT";
+"NO HIGH SCORE" = "INGEN REKORD";
+"BONUS GAME" = "BONUSSPILL";
+"COMPLETED" = "FULLFØRT";
+"Play Now" = "Spill nå";
+"Play Quiz" = "Spill quiz";
+"Start Tour" = "Start Tour";
+
+// Game Intro
+"Get Ready" = "Gjør deg klar";
+"signs_life" = "%d skilt – %d liv";
+"signs_lives" = "%d skilt – %d liv";
+"amount_signs" = "%d skilt";
+"3 Lives" = "3 liv";
+"60 Seconds" = "60 sekunder";
+"5 Lives" = "5 liv";
+"section_of_format" = "Seksjon %d av %d";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Lær reglene. Mestre spillet.";
+"%d signs" = "%d skilt";
+"High Score: 0%" = "Rekord: 0%";
+"Start Quiz" = "Start Quiz";
+"Driver's Guide" = "Førerhåndbok";
+
+// Learn the signs view
+"Explore each category below." = "Utforsk hver kategori nedenfor.";
+"Explore all the signs below." = "Utforsk alle skiltene nedenfor.";
+
+// Mistakes view
+"info_missed_one_sub" = "Du bommet på 1 skilt fra **%@** i **%@**. Mestre dette før neste kjøring.";
+"info_missed_many_sub" = "Du bommet på %d skilt fra **%@** i **%@**. Gå gjennom dem og hold kursen.";
+"info_missed_one_section" = "Du bommet på 1 skilt fra **%@**. Få det på plass før neste kjøring.";
+"info_missed_many_section" = "Du bommet på %d skilt fra **%@**. Repeter før neste kjøring.";
+
+// Game View
+// Memory instructions
+"Get ready!" = "Gjør deg klar!";
+"Memorize" = "Husk";
+"Get ready for next Round" = "Gjør deg klar for neste runde";
+"memory_round" = "Runde %d";
+
+
+// Alerts
+"Exit quiz?" = "Avslutte quizen?";
+"You will lose your progress in this quiz." = "Du vil miste fremdriften din i denne quizen.";
+"Cancel" = "Avbryt";
+"Exit" = "Avslutt";
+
+// Image errors
+"no_images_available" = "Ingen bilder tilgjengelig for %@ ";
+"failed_to_load_image" = "Kunne ikke laste bilde for %@ ";
+
+// Quizresultater
+"quiz_practise_result" = "%d av %d riktige skilt";
+"quiz_correct_sign" = "Riktig skilt";
+"quiz_correct_signs" = "Riktige skilt";
+"NEW HIGH SCORE" = "NY REKORD";
+"High Score:" = "Rekord:";
+"Review Mistakes" = "Gå gjennom feil";
+"Recorded Errors" = "Feilregistrering";
+"Overview" = "Oversikt";
+"Incorrect Answers" = "Feil svar";
+
+"Tour Complete" = "Turné fullført";
+"Section Passed" = "Seksjon bestått";
+"Game Over" = "Game Over";
+"Game Complete" = "Spill fullført";
+"Time's Up!" = "Tiden er ute!";
+"Section Complete" = "Seksjon fullført";
+
+"Restart Tour" = "Start turné på nytt";
+"Continue to Elite" = "Fortsett til Elite";
+"Continue" = "Fortsett";
+"Try Again" = "Prøv igjen";
+"100% required to pass" = "100% kreves for å bestå";
+"80% required to pass" = "80% kreves for å bestå";
+
+"Decide how many signs you want to be tested on. The signs will be chosen randomly from all categories." = "Bestem hvor mange skilt du vil testes på. Skiltene velges tilfeldig fra alle kategorier.";
+
+"Choose how long you want to play and answer as many signs as you can before time runs out." = "Velg hvor lenge du vil spille og svar på så mange skilt du kan før tiden går ut.";
+
+"Explore the categories. Learn the signs or take a quiz in each." = "Utforsk kategoriene. Lær skiltene eller ta en quiz i hver av dem.";
+
+"signs" = "skilt";
+"minute" = "minutt";
+"minutes" = "minutter";
+"Test your skills" = "Test dine ferdigheter";
+"START QUIZ" = "START QUIZ";
+
+"Exit quiz?" = "Avslutte quiz?";
+"Exit Game?" = "Avslutte spillet?";
+"Cancel" = "Avbryt";
+"Exit" = "Avslutt";
+"You will lose your progress in this quiz." = "Du vil miste fremgangen i denne quizzen.";
+"You will lose your progress in this game." = "Du vil miste fremgangen i dette spillet.";
+
+"Quiz Complete" = "Quiz Fullført";
+"You answered" = "Du svarte";
+"questions correctly" = "riktige svar";
+"correct" = "riktig";
+"Try Again" = "Prøv igjen";
+"Back to Menu" = "Til hovedmenyen";
+
+"Traffic Master" = "Trafikkmester";
+"Highway Hero" = "Veiviser";
+"Learner Driver" = "Øvelsessjåfør";
+"Back to Driving School" = "Tilbake til kjøreskolen";
+
+"Region" = "Region";
+"Country" = "Land";
+
+"Updating" = "Oppdaterer";
+
+"High Score: %d signs" = "Rekord: %d skilt";
+"High Score: %d%%" = "Rekord: %d%%";
+"High Scores: %@" = "Rekord: %@";
+
+"Learn Signs" = "Lær Skiltene";
+
+"categories" = "kategorier";
+
+"It's Quiz Time!" = "Klar for quiz?";
+"Jump back in and test your traffic sign knowledge 🚗💨" = "Hopp inn igjen og test trafikkskiltkunnskapene dine 🚗💨";
+
+//Onbaroding
+"Welcome to" = "Velkommen til";
+"Let's Get Started" = "Kom i gang";
+"Select country" = "Velg land";
+"Select language" = "Velg språk";  
+"Continue" = "Fortsett";
+"Stay Informed" = "Vær oppdatert";
+"We couldn’t activate notifications. Please try again." = "Vi kunne ikke aktivere varsler. Prøv igjen.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Hold deg oppdatert med nye skilt, funksjonsoppdateringer og viktige app-varsler.";
+"Skip" = "Hopp Over";
+"Enable" = "Aktiver";
+"Downloading Signs" = "Laster ned skilt";
+"Buckle Up" = "Spenn deg fast";
+"Fuel Required" = "Drivstoff påkrevd";
+"Fueling Up!" = "Fyller opp!";
+"Car is Ready" = "Bilen er klar";
+"Download Signs" = "Last ned skilt";
+"Download the traffic signs to get started" = "Last ned trafikkskiltene for å komme i gang";
+"Downloading traffic signs and challenges." = "Laster ned trafikkskilt og utfordringer.";
+"Test your knowledge and master traffic rules." = "Test kunnskapen og mestre trafikkreglene.";
+"Let's Go" = "Kjør på";
+
+// Countries - Norwegian
+"Andorra" = "Andorra";
+"Australia" = "Australia";
+"Austria" = "Østerrike";
+"Bahamas" = "Bahamas";
+"Barbados" = "Barbados";
+"Belgium" = "Belgia";
+"Belize" = "Belize";
+"Botswana" = "Botswana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgaria";
+"Canada" = "Canada";
+"Croatia" = "Kroatia";
+"Cyprus" = "Kypros";
+"Czech Republic" = "Tsjekkia";
+"Denmark" = "Danmark";
+"Dominica" = "Dominica";
+"Estonia" = "Estland";
+"Fiji" = "Fiji";
+"Finland" = "Finland";
+"France" = "Frankrike";
+"Gambia" = "Gambia";
+"Germany" = "Tyskland";
+"Ghana" = "Ghana";
+"Greece" = "Hellas";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Ungarn";
+"Iceland" = "Island";
+"India" = "India";
+"Ireland" = "Irland";
+"Italy" = "Italia";
+"Jamaica" = "Jamaica";
+"Japan" = "Japan";
+"Kenya" = "Kenya";
+"Latvia" = "Latvia";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Litauen";
+"Luxembourg" = "Luxembourg";
+"Malta" = "Malta";
+"Malaysia" = "Malaysia";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monaco";
+"Namibia" = "Namibia";
+"Netherlands" = "Nederland";
+"New Zealand" = "New Zealand";
+"Nigeria" = "Nigeria";
+"Norway" = "Norge";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papua Ny-Guinea";
+"Philippines" = "Filippinene";
+"Poland" = "Polen";
+"Portugal" = "Portugal";
+"Romania" = "Romania";
+"Rwanda" = "Rwanda";
+"Saint Lucia" = "Saint Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seychellene";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapore";
+"Slovakia" = "Slovakia";
+"Slovenia" = "Slovenia";
+"South Africa" = "Sør-Afrika";
+"South Korea" = "Sør-Korea";
+"Spain" = "Spania";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "Sverige";
+"Switzerland" = "Sveits";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thailand";
+"Trinidad and Tobago" = "Trinidad og Tobago";
+"Uganda" = "Uganda";
+"United Kingdom" = "Storbritannia";
+"Ukraine" = "Ukraina";
+"United States" = "USA";
+"Vatican City" = "Vatikanstaten";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+
+// Languages
+"English" = "Engelsk";
+"Vietnamese" = "Vietnamesisk";
+"Portuguese (Brazil)" = "Portugisisk (Brasil)";
+"Ukrainian" = "Ukrainsk";
+"Italian" = "Italiensk";
+"Chinese (Traditional)" = "Kinesisk (Tradisjonell)";
+"Korean" = "Koreansk";
+"German" = "Tysk";
+"Chinese (Simplified)" = "Kinesisk (Forenklet)";
+"Japanese" = "Japansk";
+"Indonesian" = "Indonesisk";
+"Dutch" = "Nederlandsk";
+"French" = "Fransk";
+"Thai" = "Thailandsk";
+"Spanish" = "Spansk";
+"Turkish" = "Tyrkisk";
+"Polish" = "Polsk";
+"Arabic" = "Arabisk";
+"Russian" = "Russisk";
+"Hindi" = "Hindi";
+"Norwegian" = "Norsk";

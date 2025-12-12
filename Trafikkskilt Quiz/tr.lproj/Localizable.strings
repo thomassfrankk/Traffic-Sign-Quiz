@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Trafik İşaretleri Testi";
+"Let's Play" = "Oyuna Başla";
+"Training Zone" = "Antrenman Bölgesi";
+"Updating" = "Güncelleniyor";
+
+"Language not supported" = "Dil desteklenmiyor";
+"Use English" = "İngilizce kullan";
+"language_not_supported_for_country" = "%@ için %@ desteklenmiyor.";
+"Translation required" = "Çeviri gerekli";
+"Translate" = "Çevir";
+"use_country" = "%@ kullan";
+"view_content_in_language" = "Bu içerik %@ dilinde görüntülensin mi?";
+"Update complete" = "Güncelleme tamamlandı";
+"Translating" = "Çevriliyor";
+"Translation complete" = "Çeviri tamamlandı";
+"Translation failed" = "Çeviri başarısız";
+
+// Settings
+"Settings" = "Ayarlar";
+"Loading Settings…" = "Ayarlar yükleniyor…";
+"Select Language" = "Dil seç";
+"Notifications" = "Bildirimler";
+"Enable Notifications" = "Bildirimleri aç";
+"Allow" = "İzin ver";
+"Game Effects" = "Oyun efektleri";
+"Sound Effects" = "Ses efektleri";
+"Haptics" = "Titreşim";
+"Premium" = "Premium";
+"You have Premium access" = "Premium erişiminiz var";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Reklamdan arınmış deneyimin tadını çıkarın. Uygulamayı desteklediğiniz için teşekkürler.";
+"Upgrade to Premium" = "Premium'a yükselt";
+"Support the app and enjoy an ad-free experience" = "Uygulamayı destekleyin ve reklamdan arınmış deneyimin tadını çıkarın";
+"Remove Ads" = "Reklamları kaldır";
+"Restore Purchases" = "Satın alımları geri yükle";
+"Loading…" = "Yükleniyor…";
+"Privacy Policy" = "Gizlilik Politikası";
+"Read the policy" = "Politikayı oku";
+"App Version:" = "Uygulama sürümü:";
+
+// Country Info View
+"Information" = "Bilgi";
+
+"TrafficRules" = "Trafik kuralları";
+
+"Driving_Side" = "Sürüş\nYönü";
+"Alcohol_Limit" = "Alkol\nSınırı";
+"Emergency_Number" = "Acil Durum\nNumarası";
+
+"Driving_Side_small" = "Sürüş\nYönü";
+"Alcohol_Limit_small" = "Alkol\nSınırı";
+"Emergency_Number_small" = "Acil Durum\nNumarası";
+
+"Driving_Side_pad" = "Sürüş yönü";
+"Alcohol_Limit_pad" = "Alkol sınırı";
+"Emergency_Number_pad" = "Acil durum numarası";
+
+"Right" = "Sağ";
+"Left" = "Sol";
+
+"Traffic Rules" = "Trafik kuralları";
+"Speed Limits" = "Hız limitleri";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Bu hız limitleri başka limit belirtilmeyen yerlerde geçerlidir. Hız limitlerini takip etmek ve görüş mesafesinin kısıtlı olması veya kaygan yollar gibi koşullara göre sürüşünüzü ayarlamak önemlidir.";
+"Urban" = "Şehir içi";
+"Rural" = "Şehir dışı";
+"Motorway" = "Otoyol";
+"km/h" = "km/s";
+"mph" = "mil/s";
+
+// Pick Game View
+"Pick a Game" = "Oyun seç";
+"Choose Your Drive. Own the road." = "Sürüşünü seç. Yola hükmet.";
+"Grand Tour" = "Büyük Tur";
+"Mixed Quiz" = "Karma test";
+"Beat the Clock" = "Zamanla yarış";
+"Flip & Match" = "Çevir ve eşleştir";
+"All signs. Section by section. Limited lives." = "Tüm işaretler. Bölüm bölüm. Sınırlı can.";
+"All signs. Section by section. One life." = "Tüm işaretler. Bölüm bölüm. Tek can.";
+"Random signs. Decreasing time limit. Three Lives." = "Rastgele işaretler. Azalan süre. Üç can.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Kronometreyi izle. Hareket et. Saniye kazan veya kaybet.";
+"Flip the cards. Find the match. Test your memory." = "Kartları çevir. Eşleşmeyi bul. Hafızanı test et.";
+"Play" = "Oyna";
+"HIGH SCORE: %d SIGNS" = "EN YÜKSEK SKOR: %d İŞARET";
+"NO HIGH SCORE" = "EN YÜKSEK SKOR YOK";
+"BONUS GAME" = "BONUS OYUN";
+"COMPLETED" = "TAMAMLANDI";
+"Play Now" = "Şimdi oyna";
+"Play Quiz" = "Teste başla";
+"Start Tour" = "Tura başla";
+
+"Restart Grand Tour?" = "Büyük Tur’u Yeniden Başlat?";
+"Restart" = "Yeniden Başlat";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Bu işlem tüm bölüm ve alt bölüm en yüksek puanlarını silecek ve turun ilerlemenizi sıfırlayacaktır. Bu işlem geri alınamaz.";
+
+"section_of_format" = "Bölüm %d / %d";
+
+// Game Intro
+"Get Ready" = "Hazırlan";
+"signs_life" = "%d işaret - %d can";
+"signs_lives" = "%d işaret - %d can";
+"amount_signs" = "%d işaret";
+"3 Lives" = "3 can";
+"60 Seconds" = "60 saniye";
+"5 Lives" = "5 can";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Kuralları öğren. Oyunu yen.";
+"%d signs" = "%d işaret";
+"High Score: 0%" = "En yüksek skor: 0%";
+"Start Quiz" = "Teste başla";
+"Driver's Guide" = "Sürücü Rehberi";
+
+// Learn Signs View
+"Explore each category below." = "Aşağıdaki her kategoriyi keşfet.";
+"Explore all the signs below." = "Aşağıdaki tüm işaretleri keşfet.";
+
+// Mistakes View
+"info_missed_one_sub" = "**%@** içindeki **%@** bölümünden 1 işareti kaçırdınız. Bir sonraki sürüşünüzden önce ustalaşın.";
+"info_missed_many_sub" = "**%@** içindeki **%@** bölümünden %d işaret kaçırdınız. Gözden geçirin ve yolda kalın.";
+"info_missed_one_section" = "**%@** bölümünden 1 işaret kaçırdınız. Bir sonraki sürüşten önce tekrar edin.";
+"info_missed_many_section" = "**%@** bölümünden %d işaret kaçırdınız. Bir sonraki sürüşten önce tekrar edin.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Hazırlan!";
+"Memorize" = "Ezberle";
+"Get ready for next Round" = "Sonraki tura hazırlan";
+"memory_round" = "Tur %d";
+"+3 Lives" = "+3 can";
+
+// Alerts
+"Exit quiz?" = "Testten çık?";
+"Exit game?" = "Oyundan çık?";
+"You will lose your progress in this quiz." = "Bu testteki ilerlemenizi kaybedeceksiniz.";
+"You will lose your progress in this game." = "Bu oyundaki ilerlemenizi kaybedeceksiniz.";
+"Cancel" = "İptal";
+"Exit" = "Çık";
+
+// Image Errors
+"no_images_available" = "%@ için görsel yok";
+"failed_to_load_image" = "%@ için görsel yüklenemedi";
+
+// Game Completion View
+"quiz_practise_result" = "%d / %d doğru";
+"quiz_correct_sign" = "Doğru işaret";
+"quiz_correct_signs" = "Doğru işaretler";
+"NEW HIGH SCORE" = "YENİ REKOR";
+"High Score:" = "En yüksek skor:";
+"Review Mistakes" = "Hataları gözden geçir";
+
+"Tour Complete" = "Tur tamamlandı";
+"Section Passed" = "Bölüm geçildi";
+"Game Over" = "Oyun bitti";
+"Game Complete" = "Oyun tamamlandı";
+"Time's Up!" = "Süre doldu!";
+"Section Complete" = "Bölüm tamamlandı";
+
+"Restart Tour" = "Turu yeniden başlat";
+"Continue to Elite" = "Elit seviyeye devam";
+"Continue" = "Devam et";
+"Try Again" = "Tekrar dene";
+
+"Recorded Errors" = "Kaydedilen hatalar";
+"Incorrect Answers" = "Yanlış cevaplar";
+"Overview" = "Genel bakış";
+"100% required to pass" = "Geçmek için %100 gerekli";
+"80% required to pass" = "Geçmek için %80 gerekli";
+
+"signs" = "işaret";
+
+"questions correctly" = "soru doğru";
+"Try Again" = "Tekrar dene";
+"Back to Menu" = "Menüye dön";
+
+"Region" = "Bölge";
+"Country" = "Ülke";
+
+"High Score: %d%%" = "En yüksek skor: %%%d";
+
+// Initial Setup
+"Welcome to" = "Hoş geldiniz";
+"Let's Get Started" = "Hadi başlayalım";
+"Select country" = "Ülke seç";
+"Select language" = "Dil seç";
+"Switch countries anytime from the home screen" = "Ana ekrandan istediğiniz zaman ülke değiştirebilirsiniz";
+"Continue" = "Devam et";
+"Stay Informed" = "Bilgilenin";
+"We couldn't activate notifications. Please try again." = "Bildirimleri etkinleştiremedik. Lütfen tekrar deneyin.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Yeni işaretler, özellik güncellemeleri ve önemli uygulama bildirimleriyle güncel kalın.";
+"Skip" = "Atla";
+"Enable" = "Etkinleştir";
+"Downloading Signs" = "İşaretler indiriliyor";
+"Buckle Up" = "Kemeri tak";
+"Ready to hit the road!" = "Yola çıkmaya hazır!";
+"Fuel Required" = "Yakıt gerekli";
+"Fueling Up!" = "Yakıt alınıyor!";
+"Car is Ready" = "Araba hazır";
+"Download Signs" = "İşaretleri indir";
+"Download the traffic signs to get started" = "Başlamak için trafik işaretlerini indir";
+"Downloading traffic signs and challenges." = "Trafik işaretleri ve zorluklar indiriliyor.";
+"Test your knowledge and master traffic rules." = "Bilginizi test edin ve trafik kurallarında ustalaşın.";
+"Let's Go" = "Hadi gidelim";
+
+// Countries
+"Andorra" = "Andorra";
+"Australia" = "Avustralya";
+"Austria" = "Avusturya";
+"Bahamas" = "Bahamalar";
+"Barbados" = "Barbados";
+"Belgium" = "Belçika";
+"Belize" = "Belize";
+"Botswana" = "Botsvana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgaristan";
+"Canada" = "Kanada";
+"Croatia" = "Hırvatistan";
+"Cyprus" = "Kıbrıs";
+"Czech Republic" = "Çekya";
+"Denmark" = "Danimarka";
+"Dominica" = "Dominika";
+"Estonia" = "Estonya";
+"Fiji" = "Fiji";
+"Finland" = "Finlandiya";
+"France" = "Fransa";
+"Gambia" = "Gambiya";
+"Germany" = "Almanya";
+"Ghana" = "Gana";
+"Greece" = "Yunanistan";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Macaristan";
+"Iceland" = "İzlanda";
+"India" = "Hindistan";
+"Ireland" = "İrlanda";
+"Italy" = "İtalya";
+"Jamaica" = "Jamaika";
+"Japan" = "Japonya";
+"Kenya" = "Kenya";
+"Latvia" = "Letonya";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberya";
+"Liechtenstein" = "Lihtenştayn";
+"Lithuania" = "Litvanya";
+"Luxembourg" = "Lüksemburg";
+"Malta" = "Malta";
+"Malaysia" = "Malezya";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monako";
+"Namibia" = "Namibya";
+"Netherlands" = "Hollanda";
+"New Zealand" = "Yeni Zelanda";
+"Nigeria" = "Nijerya";
+"Norway" = "Norveç";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papua Yeni Gine";
+"Philippines" = "Filipinler";
+"Poland" = "Polonya";
+"Portugal" = "Portekiz";
+"Romania" = "Romanya";
+"Rwanda" = "Ruanda";
+"Saint Lucia" = "Saint Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seyşeller";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapur";
+"Slovakia" = "Slovakya";
+"Slovenia" = "Slovenya";
+"South Africa" = "Güney Afrika";
+"South Korea" = "Güney Kore";
+"Spain" = "İspanya";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "İsveç";
+"Switzerland" = "İsviçre";
+"Tanzania" = "Tanzanya";
+"Thailand" = "Tayland";
+"Trinidad and Tobago" = "Trinidad ve Tobago";
+"Uganda" = "Uganda";
+"United Kingdom" = "Birleşik Krallık";
+"Ukraine" = "Ukrayna";
+"United States" = "Amerika Birleşik Devletleri";
+"Vatican City" = "Vatikan";
+"Zambia" = "Zambiya";
+"Zimbabwe" = "Zimbabve";
+
+// Languages
+"English" = "İngilizce";
+"Vietnamese" = "Vietnamca";
+"Portuguese (Brazil)" = "Portekizce (Brezilya)";
+"Ukrainian" = "Ukraynaca";
+"Italian" = "İtalyanca";
+"Chinese (Traditional)" = "Çince (Geleneksel)";
+"Korean" = "Korece";
+"German" = "Almanca";
+"Chinese (Simplified)" = "Çince (Basitleştirilmiş)";
+"Japanese" = "Japonca";
+"Indonesian" = "Endonezce";
+"Dutch" = "Flemenkçe";
+"French" = "Fransızca";
+"Thai" = "Tayca";
+"Spanish" = "İspanyolca";
+"Turkish" = "Türkçe";
+"Polish" = "Lehçe";
+"Arabic" = "Arapça";
+"Russian" = "Rusça";
+"Hindi" = "Hintçe";
+"Norwegian" = "Norveççe";

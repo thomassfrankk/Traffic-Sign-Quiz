@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "यातायात संकेत क्विज़";
+"Let's Play" = "खेल शुरू करें";
+"Training Zone" = "प्रशिक्षण क्षेत्र";
+"Updating" = "अपडेट हो रहा है";
+
+"Language not supported" = "भाषा समर्थित नहीं है";
+"Use English" = "अंग्रेज़ी का उपयोग करें";
+"language_not_supported_for_country" = "%@ के लिए %@ समर्थित नहीं है।";
+"Translation required" = "अनुवाद आवश्यक है";
+"Translate" = "अनुवाद करें";
+"use_country" = "%@ का उपयोग करें";
+"view_content_in_language" = "इस सामग्री को %@ में देखें?";
+"Update complete" = "अपडेट पूर्ण";
+"Translating" = "अनुवाद हो रहा है";
+"Translation complete" = "अनुवाद पूर्ण";
+"Translation failed" = "अनुवाद विफल";
+
+// Settings
+"Settings" = "सेटिंग्स";
+"Loading Settings…" = "सेटिंग्स लोड हो रही हैं…";
+"Select Language" = "भाषा चुनें";
+"Notifications" = "सूचनाएं";
+"Enable Notifications" = "सूचनाएं सक्षम करें";
+"Allow" = "अनुमति दें";
+"Game Effects" = "गेम प्रभाव";
+"Sound Effects" = "ध्वनि प्रभाव";
+"Haptics" = "हैप्टिक्स";
+"Premium" = "प्रीमियम";
+"You have Premium access" = "आपके पास प्रीमियम एक्सेस है";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "विज्ञापन-मुक्त अनुभव का आनंद लें। ऐप का समर्थन करने के लिए धन्यवाद।";
+"Upgrade to Premium" = "प्रीमियम में अपग्रेड करें";
+"Support the app and enjoy an ad-free experience" = "ऐप का समर्थन करें और विज्ञापन-मुक्त अनुभव का आनंद लें";
+"Remove Ads" = "विज्ञापन हटाएं";
+"Restore Purchases" = "खरीदारी पुनर्स्थापित करें";
+"Loading…" = "लोड हो रहा है…";
+"Privacy Policy" = "गोपनीयता नीति";
+"Read the policy" = "नीति पढ़ें";
+"App Version:" = "ऐप संस्करण:";
+
+// Country Info View
+"Information" = "जानकारी";
+
+"TrafficRules" = "यातायात नियम";
+
+"Driving_Side" = "ड्राइविंग दिशा";
+"Alcohol_Limit" = "शराब सीमा";
+"Emergency_Number" = "आपातकालीन नंबर";
+
+"Driving_Side_small" = "ड्राइविंग\nदिशा";
+"Alcohol_Limit_small" = "शराब\nसीमा";
+"Emergency_Number_small" = "आपातकालीन\nनंबर";
+
+"Driving_Side_pad" = "ड्राइविंग दिशा";
+"Alcohol_Limit_pad" = "शराब सीमा";
+"Emergency_Number_pad" = "आपातकालीन नंबर";
+
+"Right" = "दाएं";
+"Left" = "बाएं";
+
+"Traffic Rules" = "यातायात नियम";
+"Speed Limits" = "गति सीमा";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "ये गति सीमाएं वहां लागू होती हैं जहां कोई अन्य सीमा नहीं दी गई है। गति सीमा का पालन करना और खराब दृश्यता या फिसलन भरी सड़कों जैसी परिस्थितियों के अनुसार अपनी ड्राइविंग को समायोजित करना महत्वपूर्ण है।";
+"Urban" = "शहरी";
+"Rural" = "ग्रामीण";
+"Motorway" = "मोटरवे";
+"km/h" = "किमी/घंटा";
+"mph" = "मील/घंटा";
+
+// Pick Game View
+"Pick a Game" = "एक गेम चुनें";
+"Choose Your Drive. Own the road." = "अपनी ड्राइव चुनें। सड़क पर राज करें।";
+"Grand Tour" = "ग्रैंड टूर";
+"Mixed Quiz" = "मिश्रित क्विज़";
+"Beat the Clock" = "समय को हराएं";
+"Flip & Match" = "पलटें और मिलाएं";
+"All signs. Section by section. Limited lives." = "सभी संकेत। खंड दर खंड। सीमित जीवन।";
+"All signs. Section by section. One life." = "सभी संकेत। खंड दर खंड। एक जीवन।";
+"Random signs. Decreasing time limit. Three Lives." = "यादृच्छिक संकेत। कम होता समय। तीन जीवन।";
+"Watch the timer. Keep moving. Earn or lose seconds." = "टाइमर देखें। चलते रहें। सेकंड जीतें या खोएं।";
+"Flip the cards. Find the match. Test your memory." = "कार्ड पलटें। मिलान खोजें। अपनी याददाश्त परखें।";
+"Play" = "खेलें";
+"HIGH SCORE: %d SIGNS" = "उच्चतम स्कोर: %d संकेत";
+"NO HIGH SCORE" = "कोई उच्चतम स्कोर नहीं";
+"BONUS GAME" = "बोनस गेम";
+"COMPLETED" = "पूर्ण";
+"Play Now" = "अभी खेलें";
+"Play Quiz" = "क्विज़ खेलें";
+"Start Tour" = "टूर शुरू करें";
+
+"Restart Grand Tour?" = "ग्रांड टूर पुनः प्रारंभ करें?";
+"Restart" = "पुनः प्रारंभ करें";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "यह सभी सेक्शन और उप-सेक्शन के उच्चतम स्कोर को हटा देगा और आपके टूर की प्रगति को रीसेट कर देगा। इस कार्रवाई को पूर्ववत नहीं किया जा सकता।";
+
+"section_of_format" = "खंड %d में से %d";
+
+// Game Intro
+"Get Ready" = "तैयार हो जाएं";
+"signs_life" = "%d संकेत - %d जीवन";
+"signs_lives" = "%d संकेत - %d जीवन";
+"amount_signs" = "%d संकेत";
+"3 Lives" = "3 जीवन";
+"60 Seconds" = "60 सेकंड";
+"5 Lives" = "5 जीवन";
+
+// Training Zone
+"Learn the rules. Beat the game." = "नियम सीखें। गेम जीतें।";
+"%d signs" = "%d संकेत";
+"High Score: 0%" = "उच्चतम स्कोर: 0%";
+"Start Quiz" = "क्विज़ शुरू करें";
+"Driver's Guide" = "चालक मार्गदर्शिका";
+
+// Learn Signs View
+"Explore each category below." = "नीचे प्रत्येक श्रेणी देखें।";
+"Explore all the signs below." = "नीचे सभी संकेत देखें।";
+
+// Mistakes View
+"info_missed_one_sub" = "आपने **%@** में **%@** का 1 संकेत छोड़ दिया। अगली यात्रा से पहले इसे सीखें।";
+"info_missed_many_sub" = "आपने **%@** में **%@** के %d संकेत छोड़े। इन्हें दोहराएं और पटरी पर बने रहें।";
+"info_missed_one_section" = "आपने **%@** का 1 संकेत छोड़ दिया। अगली ड्राइव से पहले इसे सीखें।";
+"info_missed_many_section" = "आपने **%@** के %d संकेत छोड़े। अगली ड्राइव से पहले इन्हें दोहराएं।";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "तैयार हो जाएं!";
+"Memorize" = "याद करें";
+"Get ready for next Round" = "अगले राउंड के लिए तैयार हो जाएं";
+"memory_round" = "राउंड %d";
+"+3 Lives" = "+3 जीवन";
+
+// Alerts
+"Exit quiz?" = "क्विज़ से बाहर निकलें?";
+"Exit game?" = "गेम से बाहर निकलें?";
+"You will lose your progress in this quiz." = "आप इस क्विज़ में अपनी प्रगति खो देंगे।";
+"You will lose your progress in this game." = "आप इस गेम में अपनी प्रगति खो देंगे।";
+"Cancel" = "रद्द करें";
+"Exit" = "बाहर निकलें";
+
+// Image Errors
+"no_images_available" = "%@ के लिए कोई चित्र उपलब्ध नहीं";
+"failed_to_load_image" = "%@ के लिए चित्र लोड विफल";
+
+// Game Completion View
+"quiz_practise_result" = "%d में से %d सही";
+"quiz_correct_sign" = "सही संकेत";
+"quiz_correct_signs" = "सही संकेत";
+"NEW HIGH SCORE" = "नया उच्चतम स्कोर";
+"High Score:" = "उच्चतम स्कोर:";
+"Review Mistakes" = "गलतियां देखें";
+
+"Tour Complete" = "टूर पूर्ण";
+"Section Passed" = "खंड पास";
+"Game Over" = "गेम ओवर";
+"Game Complete" = "गेम पूर्ण";
+"Time's Up!" = "समय समाप्त!";
+"Section Complete" = "खंड पूर्ण";
+
+"Restart Tour" = "टूर पुनः शुरू करें";
+"Continue to Elite" = "एलीट में जारी रखें";
+"Continue" = "जारी रखें";
+"Try Again" = "फिर कोशिश करें";
+
+"Recorded Errors" = "रिकॉर्ड की गई गलतियां";
+"Incorrect Answers" = "गलत उत्तर";
+"Overview" = "अवलोकन";
+"100% required to pass" = "पास करने के लिए 100% आवश्यक";
+"80% required to pass" = "पास करने के लिए 80% आवश्यक";
+
+"signs" = "संकेत";
+
+"questions correctly" = "प्रश्न सही";
+"Try Again" = "फिर कोशिश करें";
+"Back to Menu" = "मेनू पर वापस";
+
+"Region" = "क्षेत्र";
+"Country" = "देश";
+
+"High Score: %d%%" = "उच्चतम स्कोर: %d%%";
+
+// Initial Setup
+"Welcome to" = "में आपका स्वागत है";
+"Let's Get Started" = "चलिए शुरू करते हैं";
+"Select country" = "देश चुनें";
+"Select language" = "भाषा चुनें";
+"Switch countries anytime from the home screen" = "होम स्क्रीन से किसी भी समय देश बदलें";
+"Continue" = "जारी रखें";
+"Stay Informed" = "सूचित रहें";
+"We couldn't activate notifications. Please try again." = "हम सूचनाएं सक्रिय नहीं कर सके। कृपया पुनः प्रयास करें।";
+"Stay updated with new signs, feature releases, and important app notifications." = "नए संकेतों, फीचर रिलीज़ और महत्वपूर्ण ऐप सूचनाओं के साथ अपडेट रहें।";
+"Skip" = "छोड़ें";
+"Enable" = "सक्षम करें";
+"Downloading Signs" = "संकेत डाउनलोड हो रहे हैं";
+"Buckle Up" = "सीटबेल्ट लगाएं";
+"Ready to hit the road!" = "सड़क पर उतरने के लिए तैयार!";
+"Fuel Required" = "ईंधन आवश्यक";
+"Fueling Up!" = "ईंधन भरा जा रहा है!";
+"Car is Ready" = "कार तैयार है";
+"Download Signs" = "संकेत डाउनलोड करें";
+"Download the traffic signs to get started" = "शुरू करने के लिए यातायात संकेत डाउनलोड करें";
+"Downloading traffic signs and challenges." = "यातायात संकेत और चुनौतियां डाउनलोड हो रही हैं।";
+"Test your knowledge and master traffic rules." = "अपने ज्ञान का परीक्षण करें और यातायात नियमों में महारत हासिल करें।";
+"Let's Go" = "चलिए";
+
+// Countries
+"Andorra" = "एंडोरा";
+"Australia" = "ऑस्ट्रेलिया";
+"Austria" = "ऑस्ट्रिया";
+"Bahamas" = "बहामास";
+"Barbados" = "बारबाडोस";
+"Belgium" = "बेल्जियम";
+"Belize" = "बेलीज़";
+"Botswana" = "बोत्सवाना";
+"Brunei" = "ब्रुनेई";
+"Bulgaria" = "बुल्गारिया";
+"Canada" = "कनाडा";
+"Croatia" = "क्रोएशिया";
+"Cyprus" = "साइप्रस";
+"Czech Republic" = "चेक गणराज्य";
+"Denmark" = "डेनमार्क";
+"Dominica" = "डोमिनिका";
+"Estonia" = "एस्टोनिया";
+"Fiji" = "फिजी";
+"Finland" = "फ़िनलैंड";
+"France" = "फ्रांस";
+"Gambia" = "गाम्बिया";
+"Germany" = "जर्मनी";
+"Ghana" = "घाना";
+"Greece" = "ग्रीस";
+"Grenada" = "ग्रेनाडा";
+"Guyana" = "गुयाना";
+"Hungary" = "हंगरी";
+"Iceland" = "आइसलैंड";
+"India" = "भारत";
+"Ireland" = "आयरलैंड";
+"Italy" = "इटली";
+"Jamaica" = "जमैका";
+"Japan" = "जापान";
+"Kenya" = "केन्या";
+"Latvia" = "लातविया";
+"Lesotho" = "लेसोथो";
+"Liberia" = "लाइबेरिया";
+"Liechtenstein" = "लिकटेंस्टीन";
+"Lithuania" = "लिथुआनिया";
+"Luxembourg" = "लक्ज़मबर्ग";
+"Malta" = "माल्टा";
+"Malaysia" = "मलेशिया";
+"Mauritius" = "मॉरीशस";
+"Monaco" = "मोनाको";
+"Namibia" = "नामीबिया";
+"Netherlands" = "नीदरलैंड";
+"New Zealand" = "न्यूज़ीलैंड";
+"Nigeria" = "नाइजीरिया";
+"Norway" = "नॉर्वे";
+"Pakistan" = "पाकिस्तान";
+"Papua New Guinea" = "पापुआ न्यू गिनी";
+"Philippines" = "फिलीपींस";
+"Poland" = "पोलैंड";
+"Portugal" = "पुर्तगाल";
+"Romania" = "रोमानिया";
+"Rwanda" = "रवांडा";
+"Saint Lucia" = "सेंट लूसिया";
+"San Marino" = "सैन मैरिनो";
+"Seychelles" = "सेशेल्स";
+"Sierra Leone" = "सिएरा लियोन";
+"Singapore" = "सिंगापुर";
+"Slovakia" = "स्लोवाकिया";
+"Slovenia" = "स्लोवेनिया";
+"South Africa" = "दक्षिण अफ्रीका";
+"South Korea" = "दक्षिण कोरिया";
+"Spain" = "स्पेन";
+"Sri Lanka" = "श्रीलंका";
+"Sweden" = "स्वीडन";
+"Switzerland" = "स्विट्जरलैंड";
+"Tanzania" = "तंजानिया";
+"Thailand" = "थाईलैंड";
+"Trinidad and Tobago" = "त्रिनिदाद और टोबैगो";
+"Uganda" = "युगांडा";
+"United Kingdom" = "यूनाइटेड किंगडम";
+"Ukraine" = "यूक्रेन";
+"United States" = "संयुक्त राज्य अमेरिका";
+"Vatican City" = "वेटिकन सिटी";
+"Zambia" = "जाम्बिया";
+"Zimbabwe" = "जिम्बाब्वे";
+
+// Languages
+"English" = "अंग्रेज़ी";
+"Vietnamese" = "वियतनामी";
+"Portuguese (Brazil)" = "पुर्तगाली (ब्राज़ील)";
+"Ukrainian" = "यूक्रेनी";
+"Italian" = "इतालवी";
+"Chinese (Traditional)" = "चीनी (पारंपरिक)";
+"Korean" = "कोरियाई";
+"German" = "जर्मन";
+"Chinese (Simplified)" = "चीनी (सरलीकृत)";
+"Japanese" = "जापानी";
+"Indonesian" = "इंडोनेशियाई";
+"Dutch" = "डच";
+"French" = "फ्रेंच";
+"Thai" = "थाई";
+"Spanish" = "स्पेनिश";
+"Turkish" = "तुर्की";
+"Polish" = "पोलिश";
+"Arabic" = "अरबी";
+"Russian" = "रूसी";
+"Hindi" = "हिंदी";
+"Norwegian" = "नॉर्वेज़ियन";

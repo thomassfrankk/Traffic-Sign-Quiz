@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Trắc nghiệm biển báo";
+"Let's Play" = "Chơi ngay";
+"Training Zone" = "Khu vực luyện tập";
+"Updating" = "Đang cập nhật";
+
+"Language not supported" = "Không hỗ trợ ngôn ngữ";
+"Use English" = "Sử dụng tiếng Anh";
+"language_not_supported_for_country" = "%@ không được hỗ trợ cho %@.";
+"Translation required" = "Cần dịch";
+"Translate" = "Dịch";
+"use_country" = "Sử dụng %@";
+"view_content_in_language" = "Xem nội dung này bằng %@?";
+"Update complete" = "Cập nhật hoàn tất";
+"Translating" = "Đang dịch";
+"Translation complete" = "Dịch hoàn tất";
+"Translation failed" = "Dịch thất bại";
+
+// Settings
+"Settings" = "Cài đặt";
+"Loading Settings…" = "Đang tải cài đặt…";
+"Select Language" = "Chọn ngôn ngữ";
+"Notifications" = "Thông báo";
+"Enable Notifications" = "Bật thông báo";
+"Allow" = "Cho phép";
+"Game Effects" = "Hiệu ứng trò chơi";
+"Sound Effects" = "Hiệu ứng âm thanh";
+"Haptics" = "Rung";
+"Premium" = "Premium";
+"You have Premium access" = "Bạn có quyền truy cập Premium";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Trải nghiệm không quảng cáo. Cảm ơn bạn đã ủng hộ ứng dụng.";
+"Upgrade to Premium" = "Nâng cấp lên Premium";
+"Support the app and enjoy an ad-free experience" = "Ủng hộ ứng dụng và trải nghiệm không quảng cáo";
+"Remove Ads" = "Xóa quảng cáo";
+"Restore Purchases" = "Khôi phục giao dịch mua";
+"Loading…" = "Đang tải…";
+"Privacy Policy" = "Chính sách bảo mật";
+"Read the policy" = "Đọc chính sách";
+"App Version:" = "Phiên bản ứng dụng:";
+
+// Country Info View
+"Information" = "Thông tin";
+
+"TrafficRules" = "Luật giao thông";
+
+"Driving_Side" = "Bên\nlái xe";
+"Alcohol_Limit" = "Giới hạn\nrượu";
+"Emergency_Number" = "Số\nkhẩn cấp";
+
+"Driving_Side_small" = "Bên\nlái xe";
+"Alcohol_Limit_small" = "Giới hạn\nrượu";
+"Emergency_Number_small" = "Số\nkhẩn cấp";
+
+"Driving_Side_pad" = "Bên lái xe";
+"Alcohol_Limit_pad" = "Giới hạn rượu";
+"Emergency_Number_pad" = "Số khẩn cấp";
+
+"Right" = "Phải";
+"Left" = "Trái";
+
+"Traffic Rules" = "Luật giao thông";
+"Speed Limits" = "Giới hạn tốc độ";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Các giới hạn tốc độ này áp dụng nơi không có giới hạn khác được đăng. Điều quan trọng là tuân theo giới hạn tốc độ và điều chỉnh lái xe theo điều kiện như tầm nhìn kém hoặc đường trơn.";
+"Urban" = "Nội thành";
+"Rural" = "Ngoại thành";
+"Motorway" = "Đường cao tốc";
+"km/h" = "km/h";
+"mph" = "mph";
+
+// Pick Game View
+"Pick a Game" = "Chọn trò chơi";
+"Choose Your Drive. Own the road." = "Chọn hành trình. Làm chủ đường.";
+"Grand Tour" = "Chuyến đi lớn";
+"Mixed Quiz" = "Trắc nghiệm hỗn hợp";
+"Beat the Clock" = "Đua với thời gian";
+"Flip & Match" = "Lật và ghép";
+"All signs. Section by section. Limited lives." = "Tất cả biển báo. Từng phần. Mạng giới hạn.";
+"All signs. Section by section. One life." = "Tất cả biển báo. Từng phần. Một mạng.";
+"Random signs. Decreasing time limit. Three Lives." = "Biển báo ngẫu nhiên. Thời gian giảm dần. Ba mạng.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Theo dõi đồng hồ. Tiếp tục di chuyển. Kiếm hoặc mất giây.";
+"Flip the cards. Find the match. Test your memory." = "Lật thẻ. Tìm cặp giống nhau. Thử trí nhớ.";
+"Play" = "Chơi";
+"HIGH SCORE: %d SIGNS" = "ĐIỂM CAO NHẤT: %d BIỂN BÁO";
+"NO HIGH SCORE" = "CHƯA CÓ ĐIỂM CAO NHẤT";
+"BONUS GAME" = "TRÒ CHƠI THƯỞNG";
+"COMPLETED" = "HOÀN THÀNH";
+"Play Now" = "Chơi ngay";
+"Play Quiz" = "Chơi trắc nghiệm";
+"Start Tour" = "Bắt đầu chuyến đi";
+
+"Restart Grand Tour?" = "Khởi động lại Grand Tour?";
+"Restart" = "Khởi động lại";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Hành động này sẽ xóa tất cả điểm cao nhất của các phần và mục phụ, đồng thời đặt lại tiến trình tour của bạn. Hành động này không thể hoàn tác.";
+
+"section_of_format" = "Phần %d / %d";
+
+// Game Intro
+"Get Ready" = "Chuẩn bị";
+"signs_life" = "%d biển báo - %d mạng";
+"signs_lives" = "%d biển báo - %d mạng";
+"amount_signs" = "%d biển báo";
+"3 Lives" = "3 mạng";
+"60 Seconds" = "60 giây";
+"5 Lives" = "5 mạng";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Học luật. Chiến thắng trò chơi.";
+"%d signs" = "%d biển báo";
+"High Score: 0%" = "Điểm cao nhất: 0%";
+"Start Quiz" = "Bắt đầu trắc nghiệm";
+"Driver's Guide" = "Sổ tay";
+
+// Learn Signs View
+"Explore each category below." = "Khám phá từng danh mục dưới đây.";
+"Explore all the signs below." = "Khám phá tất cả biển báo dưới đây.";
+
+// Mistakes View
+"info_missed_one_sub" = "Bạn đã sai 1 biển báo từ **%@** trong **%@**. Hãy thành thạo trước chuyến đi tiếp theo.";
+"info_missed_many_sub" = "Bạn đã sai %d biển báo từ **%@** trong **%@**. Ôn lại và giữ đúng hướng.";
+"info_missed_one_section" = "Bạn đã sai 1 biển báo từ **%@**. Ôn lại trước khi lái xe tiếp.";
+"info_missed_many_section" = "Bạn đã sai %d biển báo từ **%@**. Ôn lại trước khi lái xe tiếp.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Chuẩn bị!";
+"Memorize" = "Ghi nhớ";
+"Get ready for next Round" = "Chuẩn bị cho vòng tiếp theo";
+"memory_round" = "Vòng %d";
+"+3 Lives" = "+3 mạng";
+
+// Alerts
+"Exit quiz?" = "Thoát trắc nghiệm?";
+"Exit game?" = "Thoát trò chơi?";
+"You will lose your progress in this quiz." = "Bạn sẽ mất tiến độ trong trắc nghiệm này.";
+"You will lose your progress in this game." = "Bạn sẽ mất tiến độ trong trò chơi này.";
+"Cancel" = "Hủy";
+"Exit" = "Thoát";
+
+// Image Errors
+"no_images_available" = "Không có hình ảnh cho %@";
+"failed_to_load_image" = "Không tải được hình ảnh cho %@";
+
+// Game Completion View
+"quiz_practise_result" = "%d / %d đúng";
+"quiz_correct_sign" = "Biển báo đúng";
+"quiz_correct_signs" = "Biển báo đúng";
+"NEW HIGH SCORE" = "ĐIỂM CAO NHẤT MỚI";
+"High Score:" = "Điểm cao nhất:";
+"Review Mistakes" = "Xem lại sai sót";
+
+"Tour Complete" = "Hoàn thành chuyến đi";
+"Section Passed" = "Vượt qua phần";
+"Game Over" = "Kết thúc trò chơi";
+"Game Complete" = "Hoàn thành trò chơi";
+"Time's Up!" = "Hết giờ!";
+"Section Complete" = "Hoàn thành phần";
+
+"Restart Tour" = "Bắt đầu lại chuyến đi";
+"Continue to Elite" = "Tiếp tục đến Elite";
+"Continue" = "Tiếp tục";
+"Try Again" = "Thử lại";
+
+"Recorded Errors" = "Lỗi đã ghi";
+"Incorrect Answers" = "Câu trả lời sai";
+"Overview" = "Tổng quan";
+"100% required to pass" = "Cần 100% để đạt";
+"80% required to pass" = "Cần 80% để đạt";
+
+"signs" = "biển báo";
+
+"questions correctly" = "câu hỏi đúng";
+"Try Again" = "Thử lại";
+"Back to Menu" = "Về menu";
+
+"Region" = "Khu vực";
+"Country" = "Quốc gia";
+
+"High Score: %d%%" = "Điểm cao nhất: %d%%";
+
+// Initial Setup
+"Welcome to" = "Chào mừng đến";
+"Let's Get Started" = "Bắt đầu nào";
+"Select country" = "Chọn quốc gia";
+"Select language" = "Chọn ngôn ngữ";
+"Switch countries anytime from the home screen" = "Đổi quốc gia bất cứ lúc nào từ màn hình chính";
+"Continue" = "Tiếp tục";
+"Stay Informed" = "Luôn cập nhật";
+"We couldn't activate notifications. Please try again." = "Không thể bật thông báo. Vui lòng thử lại.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Cập nhật biển báo mới, tính năng mới và thông báo quan trọng.";
+"Skip" = "Bỏ qua";
+"Enable" = "Bật";
+"Downloading Signs" = "Đang tải biển báo";
+"Buckle Up" = "Thắt dây an toàn";
+"Ready to hit the road!" = "Sẵn sàng lên đường!";
+"Fuel Required" = "Cần nhiên liệu";
+"Fueling Up!" = "Đang đổ xăng!";
+"Car is Ready" = "Xe đã sẵn sàng";
+"Download Signs" = "Tải biển báo";
+"Download the traffic signs to get started" = "Tải biển báo giao thông để bắt đầu";
+"Downloading traffic signs and challenges." = "Đang tải biển báo giao thông và thử thách.";
+"Test your knowledge and master traffic rules." = "Kiểm tra kiến thức và thành thạo luật giao thông.";
+"Let's Go" = "Đi thôi";
+
+// Countries
+"Andorra" = "Andorra";
+"Australia" = "Úc";
+"Austria" = "Áo";
+"Bahamas" = "Bahamas";
+"Barbados" = "Barbados";
+"Belgium" = "Bỉ";
+"Belize" = "Belize";
+"Botswana" = "Botswana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgaria";
+"Canada" = "Canada";
+"Croatia" = "Croatia";
+"Cyprus" = "Síp";
+"Czech Republic" = "Cộng hòa Séc";
+"Denmark" = "Đan Mạch";
+"Dominica" = "Dominica";
+"Estonia" = "Estonia";
+"Fiji" = "Fiji";
+"Finland" = "Phần Lan";
+"France" = "Pháp";
+"Gambia" = "Gambia";
+"Germany" = "Đức";
+"Ghana" = "Ghana";
+"Greece" = "Hy Lạp";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Hungary";
+"Iceland" = "Iceland";
+"India" = "Ấn Độ";
+"Ireland" = "Ireland";
+"Italy" = "Ý";
+"Jamaica" = "Jamaica";
+"Japan" = "Nhật Bản";
+"Kenya" = "Kenya";
+"Latvia" = "Latvia";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Lithuania";
+"Luxembourg" = "Luxembourg";
+"Malta" = "Malta";
+"Malaysia" = "Malaysia";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monaco";
+"Namibia" = "Namibia";
+"Netherlands" = "Hà Lan";
+"New Zealand" = "New Zealand";
+"Nigeria" = "Nigeria";
+"Norway" = "Na Uy";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papua New Guinea";
+"Philippines" = "Philippines";
+"Poland" = "Ba Lan";
+"Portugal" = "Bồ Đào Nha";
+"Romania" = "Romania";
+"Rwanda" = "Rwanda";
+"Saint Lucia" = "Saint Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seychelles";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapore";
+"Slovakia" = "Slovakia";
+"Slovenia" = "Slovenia";
+"South Africa" = "Nam Phi";
+"South Korea" = "Hàn Quốc";
+"Spain" = "Tây Ban Nha";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "Thụy Điển";
+"Switzerland" = "Thụy Sĩ";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thái Lan";
+"Trinidad and Tobago" = "Trinidad và Tobago";
+"Uganda" = "Uganda";
+"United Kingdom" = "Vương quốc Anh";
+"Ukraine" = "Ukraine";
+"United States" = "Hoa Kỳ";
+"Vatican City" = "Vatican";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+
+// Languages
+"English" = "Tiếng Anh";
+"Vietnamese" = "Tiếng Việt";
+"Portuguese (Brazil)" = "Tiếng Bồ Đào Nha (Brazil)";
+"Ukrainian" = "Tiếng Ukraine";
+"Italian" = "Tiếng Ý";
+"Chinese (Traditional)" = "Tiếng Trung (Phồn thể)";
+"Korean" = "Tiếng Hàn";
+"German" = "Tiếng Đức";
+"Chinese (Simplified)" = "Tiếng Trung (Giản thể)";
+"Japanese" = "Tiếng Nhật";
+"Indonesian" = "Tiếng Indonesia";
+"Dutch" = "Tiếng Hà Lan";
+"French" = "Tiếng Pháp";
+"Thai" = "Tiếng Thái";
+"Spanish" = "Tiếng Tây Ban Nha";
+"Turkish" = "Tiếng Thổ Nhĩ Kỳ";
+"Polish" = "Tiếng Ba Lan";
+"Arabic" = "Tiếng Ả Rập";
+"Russian" = "Tiếng Nga";
+"Hindi" = "Tiếng Hindi";
+"Norwegian" = "Tiếng Na Uy";

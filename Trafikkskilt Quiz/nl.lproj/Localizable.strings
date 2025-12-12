@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Verkeersborden Quiz";
+"Let's Play" = "Laten we spelen";
+"Training Zone" = "Trainingszone";
+"Updating" = "Bijwerken";
+
+"Language not supported" = "Taal niet ondersteund";
+"Use English" = "Gebruik Engels";
+"language_not_supported_for_country" = "%@ wordt niet ondersteund voor %@.";
+"Translation required" = "Vertaling vereist";
+"Translate" = "Vertalen";
+"use_country" = "Gebruik %@";
+"view_content_in_language" = "Deze inhoud bekijken in %@?";
+"Update complete" = "Update voltooid";
+"Translating" = "Vertalen";
+"Translation complete" = "Vertaling voltooid";
+"Translation failed" = "Vertaling mislukt";
+
+// Settings
+"Settings" = "Instellingen";
+"Loading Settings…" = "Instellingen laden…";
+"Select Language" = "Selecteer taal";
+"Notifications" = "Meldingen";
+"Enable Notifications" = "Meldingen inschakelen";
+"Allow" = "Toestaan";
+"Game Effects" = "Spel effecten";
+"Sound Effects" = "Geluidseffecten";
+"Haptics" = "Trillingen";
+"Premium" = "Premium";
+"You have Premium access" = "Je hebt Premium toegang";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Geniet van een advertentievrije ervaring. Bedankt voor je steun aan de app.";
+"Upgrade to Premium" = "Upgrade naar Premium";
+"Support the app and enjoy an ad-free experience" = "Steun de app en geniet van een advertentievrije ervaring";
+"Remove Ads" = "Verwijder advertenties";
+"Restore Purchases" = "Herstel aankopen";
+"Loading…" = "Laden…";
+"Privacy Policy" = "Privacybeleid";
+"Read the policy" = "Lees het beleid";
+"App Version:" = "App versie:";
+
+// Country Info View
+"Information" = "Informatie";
+
+"TrafficRules" = "Verkeersregels";
+
+"Driving_Side" = "Rijkant";
+"Alcohol_Limit" = "Alcohollimiet";
+"Emergency_Number" = "Noodnummer";
+
+"Driving_Side_small" = "Rijkant";
+"Alcohol_Limit_small" = "Alcohol\nLimiet";
+"Emergency_Number_small" = "Noodnummer";
+
+"Driving_Side_pad" = "Rijkant";
+"Alcohol_Limit_pad" = "Alcohollimiet";
+"Emergency_Number_pad" = "Noodnummer";
+
+"Right" = "Rechts";
+"Left" = "Links";
+
+"Traffic Rules" = "Verkeersregels";
+"Speed Limits" = "Snelheidslimieten";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Deze snelheidslimieten gelden waar geen andere limieten zijn aangegeven. Het is belangrijk om de snelheidslimieten te volgen en je rijgedrag aan te passen aan omstandigheden zoals slecht zicht of gladde wegen.";
+"Urban" = "Stedelijk";
+"Rural" = "Landelijk";
+"Motorway" = "Snelweg";
+"km/h" = "km/u";
+"mph" = "mph";
+
+// Pick Game View
+"Pick a Game" = "Kies een spel";
+"Choose Your Drive. Own the road." = "Kies je rit. Beheers de weg.";
+"Grand Tour" = "Grand Tour";
+"Mixed Quiz" = "Gemengde Quiz";
+"Beat the Clock" = "Klok verslaan";
+"Flip & Match" = "Omdraaien & Matchen";
+"All signs. Section by section. Limited lives." = "Alle borden. Sectie per sectie. Beperkte levens.";
+"All signs. Section by section. One life." = "Alle borden. Sectie per sectie. Eén leven.";
+"Random signs. Decreasing time limit. Three Lives." = "Willekeurige borden. Afnemende tijdslimiet. Drie levens.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Let op de timer. Blijf in beweging. Verdien of verlies seconden.";
+"Flip the cards. Find the match. Test your memory." = "Draai de kaarten om. Vind de match. Test je geheugen.";
+"Play" = "Spelen";
+"HIGH SCORE: %d SIGNS" = "TOPSCORE: %d BORDEN";
+"NO HIGH SCORE" = "GEEN TOPSCORE";
+"BONUS GAME" = "BONUSSPEL";
+"COMPLETED" = "VOLTOOID";
+"Play Now" = "Nu spelen";
+"Play Quiz" = "Speel quiz";
+"Start Tour" = "Start ronde";
+
+"Restart Grand Tour?" = "Grand Tour opnieuw starten?";
+"Restart" = "Opnieuw starten";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Dit zal alle hoogste scores van secties en subsectoren verwijderen en je voortgang in de tour resetten. Deze actie kan niet ongedaan worden gemaakt.";
+
+"section_of_format" = "Sectie %d van %d";
+
+// Game Intro
+"Get Ready" = "Maak je klaar";
+"signs_life" = "%d Borden - %d Leven";
+"signs_lives" = "%d Borden - %d Levens";
+"amount_signs" = "%d Borden";
+"3 Lives" = "3 Levens";
+"60 Seconds" = "60 Seconden";
+"5 Lives" = "5 Levens";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Leer de regels. Versla het spel.";
+"%d signs" = "%d borden";
+"High Score: 0%" = "Topscore: 0%";
+"Start Quiz" = "Start quiz";
+"Driver's Guide" = "Bestuurdersgids";
+
+// Learn Signs View
+"Explore each category below." = "Verken elke categorie hieronder.";
+"Explore all the signs below." = "Verken alle borden hieronder.";
+
+// Mistakes View
+"info_missed_one_sub" = "Je hebt 1 bord gemist van **%@** in **%@**. Beheers deze voordat je weer op pad gaat.";
+"info_missed_many_sub" = "Je hebt %d borden gemist van **%@** in **%@**. Bekijk ze en blijf op koers.";
+"info_missed_one_section" = "Je hebt 1 bord gemist van **%@**. Oefen dit voordat je weer gaat rijden.";
+"info_missed_many_section" = "Je hebt %d borden gemist van **%@**. Oefen deze voordat je weer gaat rijden.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Maak je klaar!";
+"Memorize" = "Onthouden";
+"Get ready for next Round" = "Maak je klaar voor de volgende ronde";
+"memory_round" = "Ronde %d";
+"+3 Lives" = "+3 Levens";
+
+// Alerts
+"Exit quiz?" = "Quiz afsluiten?";
+"Exit game?" = "Spel afsluiten?";
+"You will lose your progress in this quiz." = "Je verliest je voortgang in deze quiz.";
+"You will lose your progress in this game." = "Je verliest je voortgang in dit spel.";
+"Cancel" = "Annuleren";
+"Exit" = "Afsluiten";
+
+// Image Errors — trailing space kept
+"no_images_available" = "Geen afbeeldingen beschikbaar voor %@ ";
+"failed_to_load_image" = "Kan afbeelding niet laden voor %@ ";
+
+// Game Completion View
+"quiz_practise_result" = "%d van %d correct";
+"quiz_correct_sign" = "Correct bord";
+"quiz_correct_signs" = "Correcte borden";
+"NEW HIGH SCORE" = "NIEUWE TOPSCORE";
+"High Score:" = "Topscore:";
+"Review Mistakes" = "Bekijk fouten";
+
+"Tour Complete" = "Ronde voltooid";
+"Section Passed" = "Sectie gehaald";
+"Game Over" = "Game over";
+"Game Complete" = "Spel voltooid";
+"Time's Up!" = "Tijd is op!";
+"Section Complete" = "Sectie voltooid";
+
+"Restart Tour" = "Herstart ronde";
+"Continue to Elite" = "Ga door naar Elite";
+"Continue" = "Doorgaan";
+"Try Again" = "Probeer opnieuw";
+
+"Recorded Errors" = "Geregistreerde fouten";
+"Incorrect Answers" = "Onjuiste antwoorden";
+"Overview" = "Overzicht";
+"100% required to pass" = "100% vereist om te slagen";
+"80% required to pass" = "80% vereist om te slagen";
+
+"signs" = "borden";
+
+"questions correctly" = "vragen correct";
+"Try Again" = "Probeer opnieuw";
+"Back to Menu" = "Terug naar menu";
+
+"Region" = "Regio";
+"Country" = "Land";
+
+"High Score: %d%%" = "Topscore: %d%%";
+
+// Initial Setup
+"Welcome to" = "Welkom bij";
+"Let's Get Started" = "Laten we beginnen";
+"Select country" = "Selecteer land";
+"Select language" = "Selecteer taal";
+"Switch countries anytime from the home screen" = "Wissel op elk moment van land vanaf het startscherm";
+"Continue" = "Doorgaan";
+"Stay Informed" = "Blijf op de hoogte";
+"We couldn't activate notifications. Please try again." = "We konden meldingen niet activeren. Probeer het opnieuw.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Blijf op de hoogte van nieuwe borden, functie-updates en belangrijke app-meldingen.";
+"Skip" = "Overslaan";
+"Enable" = "Inschakelen";
+"Downloading Signs" = "Borden downloaden";
+"Buckle Up" = "Gordel om";
+"Ready to hit the road!" = "Klaar om de weg op te gaan!";
+"Fuel Required" = "Brandstof vereist";
+"Fueling Up!" = "Tanken!";
+"Car is Ready" = "Auto is klaar";
+"Download Signs" = "Download borden";
+"Download the traffic signs to get started" = "Download de verkeersborden om te beginnen";
+"Downloading traffic signs and challenges." = "Verkeersborden en uitdagingen downloaden.";
+"Test your knowledge and master traffic rules." = "Test je kennis en beheers de verkeersregels.";
+"Let's Go" = "Laten we gaan";
+
+// Countries
+"Andorra" = "Andorra";
+"Australia" = "Australië";
+"Austria" = "Oostenrijk";
+"Bahamas" = "Bahama's";
+"Barbados" = "Barbados";
+"Belgium" = "België";
+"Belize" = "Belize";
+"Botswana" = "Botswana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgarije";
+"Canada" = "Canada";
+"Croatia" = "Kroatië";
+"Cyprus" = "Cyprus";
+"Czech Republic" = "Tsjechië";
+"Denmark" = "Denemarken";
+"Dominica" = "Dominica";
+"Estonia" = "Estland";
+"Fiji" = "Fiji";
+"Finland" = "Finland";
+"France" = "Frankrijk";
+"Gambia" = "Gambia";
+"Germany" = "Duitsland";
+"Ghana" = "Ghana";
+"Greece" = "Griekenland";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Hongarije";
+"Iceland" = "IJsland";
+"India" = "India";
+"Ireland" = "Ierland";
+"Italy" = "Italië";
+"Jamaica" = "Jamaica";
+"Japan" = "Japan";
+"Kenya" = "Kenia";
+"Latvia" = "Letland";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Litouwen";
+"Luxembourg" = "Luxemburg";
+"Malta" = "Malta";
+"Malaysia" = "Maleisië";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monaco";
+"Namibia" = "Namibië";
+"Netherlands" = "Nederland";
+"New Zealand" = "Nieuw-Zeeland";
+"Nigeria" = "Nigeria";
+"Norway" = "Noorwegen";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papoea-Nieuw-Guinea";
+"Philippines" = "Filipijnen";
+"Poland" = "Polen";
+"Portugal" = "Portugal";
+"Romania" = "Roemenië";
+"Rwanda" = "Rwanda";
+"Saint Lucia" = "Saint Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seychellen";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapore";
+"Slovakia" = "Slowakije";
+"Slovenia" = "Slovenië";
+"South Africa" = "Zuid-Afrika";
+"South Korea" = "Zuid-Korea";
+"Spain" = "Spanje";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "Zweden";
+"Switzerland" = "Zwitserland";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thailand";
+"Trinidad and Tobago" = "Trinidad en Tobago";
+"Uganda" = "Oeganda";
+"United Kingdom" = "Verenigd Koninkrijk";
+"Ukraine" = "Oekraïne";
+"United States" = "Verenigde Staten";
+"Vatican City" = "Vaticaanstad";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+
+// Languages
+"English" = "Engels";
+"Vietnamese" = "Vietnamees";
+"Portuguese (Brazil)" = "Portugees (Brazilië)";
+"Ukrainian" = "Oekraïens";
+"Italian" = "Italiaans";
+"Chinese (Traditional)" = "Chinees (Traditioneel)";
+"Korean" = "Koreaans";
+"German" = "Duits";
+"Chinese (Simplified)" = "Chinees (Vereenvoudigd)";
+"Japanese" = "Japans";
+"Indonesian" = "Indonesisch";
+"Dutch" = "Nederlands";
+"French" = "Frans";
+"Thai" = "Thais";
+"Spanish" = "Spaans";
+"Turkish" = "Turks";
+"Polish" = "Pools";
+"Arabic" = "Arabisch";
+"Russian" = "Russisch";
+"Hindi" = "Hindi";
+"Norwegian" = "Noors";

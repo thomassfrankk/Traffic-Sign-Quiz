@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "ควิซป้ายจราจร";
+"Let's Play" = "เริ่มเกม";
+"Training Zone" = "โซนฝึกซ้อม";
+"Updating" = "กำลังอัปเดต";
+
+"Language not supported" = "ไม่รองรับภาษา";
+"Use English" = "ใช้ภาษาอังกฤษ";
+"language_not_supported_for_country" = "%@ ไม่รองรับสำหรับ %@";
+"Translation required" = "จำเป็นต้องแปล";
+"Translate" = "แปล";
+"use_country" = "ใช้ %@";
+"view_content_in_language" = "ดูเนื้อหานี้ใน %@ หรือไม่";
+"Update complete" = "อัปเดตเสร็จสิ้น";
+"Translating" = "กำลังแปล";
+"Translation complete" = "แปลเสร็จสิ้น";
+"Translation failed" = "แปลไม่สำเร็จ";
+
+// Settings
+"Settings" = "การตั้งค่า";
+"Loading Settings…" = "กำลังโหลดการตั้งค่า…";
+"Select Language" = "เลือกภาษา";
+"Notifications" = "การแจ้งเตือน";
+"Enable Notifications" = "เปิดการแจ้งเตือน";
+"Allow" = "อนุญาต";
+"Game Effects" = "เอฟเฟกต์เกม";
+"Sound Effects" = "เอฟเฟกต์เสียง";
+"Haptics" = "การสั่นสะเทือน";
+"Premium" = "พรีเมียม";
+"You have Premium access" = "คุณมีการเข้าถึงแบบพรีเมียม";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "เพลิดเพลินกับประสบการณ์ปลอดโฆษณา ขอบคุณที่สนับสนุนแอป";
+"Upgrade to Premium" = "อัปเกรดเป็นพรีเมียม";
+"Support the app and enjoy an ad-free experience" = "สนับสนุนแอปและเพลิดเพลินกับประสบการณ์ปลอดโฆษณา";
+"Remove Ads" = "ลบโฆษณา";
+"Restore Purchases" = "กู้คืนการซื้อ";
+"Loading…" = "กำลังโหลด…";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Read the policy" = "อ่านนโยบาย";
+"App Version:" = "เวอร์ชันแอป:";
+
+// Country Info View
+"Information" = "ข้อมูล";
+
+"TrafficRules" = "กฎจราจร";
+
+"Driving_Side" = "ด้านการขับขี่";
+"Alcohol_Limit" = "ระดับแอลกอฮอล์";
+"Emergency_Number" = "หมายเลขฉุกเฉิน";
+
+"Driving_Side_small" = "ด้านการ\nขับขี่";
+"Alcohol_Limit_small" = "ระดับ\nแอลกอฮอล์";
+"Emergency_Number_small" = "หมายเลข\nฉุกเฉิน";
+
+"Driving_Side_pad" = "ด้านการขับขี่";
+"Alcohol_Limit_pad" = "ระดับแอลกอฮอล์";
+"Emergency_Number_pad" = "หมายเลขฉุกเฉิน";
+
+"Right" = "ขวา";
+"Left" = "ซ้าย";
+
+"Traffic Rules" = "กฎจราจร";
+"Speed Limits" = "ขีดจำกัดความเร็ว";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "ขีดจำกัดความเร็วเหล่านี้ใช้ในพื้นที่ที่ไม่มีป้ายจำกัดอื่น สำคัญที่จะต้องปฏิบัติตามขีดจำกัดความเร็วและปรับการขับขี่ตามสภาพ เช่น ทัศนวิสัยไม่ดีหรือถนนลื่น";
+"Urban" = "ในเมือง";
+"Rural" = "นอกเมือง";
+"Motorway" = "ทางด่วน";
+"km/h" = "กม./ชม.";
+"mph" = "ไมล์/ชม.";
+
+// Pick Game View
+"Pick a Game" = "เลือกเกม";
+"Choose Your Drive. Own the road." = "เลือกการขับขี่ของคุณ ครองถนน";
+"Grand Tour" = "แกรนด์ทัวร์";
+"Mixed Quiz" = "ควิซแบบผสม";
+"Beat the Clock" = "แข่งกับเวลา";
+"Flip & Match" = "พลิกและจับคู่";
+"All signs. Section by section. Limited lives." = "ป้ายทั้งหมด ทีละส่วน ชีวิตจำกัด";
+"All signs. Section by section. One life." = "ป้ายทั้งหมด ทีละส่วน ชีวิตเดียว";
+"Random signs. Decreasing time limit. Three Lives." = "ป้ายสุ่ม เวลาลดลง สามชีวิต";
+"Watch the timer. Keep moving. Earn or lose seconds." = "ดูตัวจับเวลา เคลื่อนไหวต่อ ได้หรือเสียวินาที";
+"Flip the cards. Find the match. Test your memory." = "พลิกการ์ด หาคู่ที่ตรงกัน ทดสอบความจำ";
+"Play" = "เล่น";
+"HIGH SCORE: %d SIGNS" = "คะแนนสูงสุด: %d ป้าย";
+"NO HIGH SCORE" = "ไม่มีคะแนนสูงสุด";
+"BONUS GAME" = "เกมโบนัส";
+"COMPLETED" = "เสร็จสมบูรณ์";
+"Play Now" = "เล่นเดี๋ยวนี้";
+"Play Quiz" = "เล่นควิซ";
+"Start Tour" = "เริ่มทัวร์";
+
+"Restart Grand Tour?" = "เริ่ม Grand Tour ใหม่?";
+"Restart" = "เริ่มใหม่";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "สิ่งนี้จะลบคะแนนสูงสุดทั้งหมดของแต่ละส่วนและส่วนย่อย และรีเซ็ตความคืบหน้าของคุณในการทัวร์ การกระทำนี้ไม่สามารถย้อนกลับได้";
+
+"section_of_format" = "ส่วนที่ %d จาก %d";
+
+// Game Intro
+"Get Ready" = "เตรียมพร้อม";
+"signs_life" = "%d ป้าย - %d ชีวิต";
+"signs_lives" = "%d ป้าย - %d ชีวิต";
+"amount_signs" = "%d ป้าย";
+"3 Lives" = "3 ชีวิต";
+"60 Seconds" = "60 วินาที";
+"5 Lives" = "5 ชีวิต";
+
+// Training Zone
+"Learn the rules. Beat the game." = "เรียนรู้กฎ ชนะเกม";
+"%d signs" = "%d ป้าย";
+"High Score: 0%" = "คะแนนสูงสุด: 0%";
+"Start Quiz" = "เริ่มควิซ";
+"Driver's Guide" = "คู่มือคนขับ";
+
+// Learn Signs View
+"Explore each category below." = "สำรวจแต่ละหมวดหมู่ด้านล่าง";
+"Explore all the signs below." = "สำรวจป้ายทั้งหมดด้านล่าง";
+
+// Mistakes View
+"info_missed_one_sub" = "คุณพลาด 1 ป้ายจาก **%@** ใน **%@** เชี่ยวชาญมันก่อนเดินทางครั้งต่อไป";
+"info_missed_many_sub" = "คุณพลาด %d ป้ายจาก **%@** ใน **%@** ทบทวนและอยู่ในเส้นทาง";
+"info_missed_one_section" = "คุณพลาด 1 ป้ายจาก **%@** ทบทวนก่อนขับครั้งต่อไป";
+"info_missed_many_section" = "คุณพลาด %d ป้ายจาก **%@** ทบทวนก่อนขับครั้งต่อไป";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "เตรียมพร้อม!";
+"Memorize" = "จดจำ";
+"Get ready for next Round" = "เตรียมพร้อมสำหรับรอบถัดไป";
+"memory_round" = "รอบ %d";
+"+3 Lives" = "+3 ชีวิต";
+
+// Alerts
+"Exit quiz?" = "ออกจากควิซหรือไม่";
+"Exit game?" = "ออกจากเกมหรือไม่";
+"You will lose your progress in this quiz." = "คุณจะสูญเสียความคืบหน้าในควิซนี้";
+"You will lose your progress in this game." = "คุณจะสูญเสียความคืบหน้าในเกมนี้";
+"Cancel" = "ยกเลิก";
+"Exit" = "ออก";
+
+// Image Errors
+"no_images_available" = "ไม่มีรูปภาพสำหรับ %@";
+"failed_to_load_image" = "โหลดรูปภาพ %@ ไม่สำเร็จ";
+
+// Game Completion View
+"quiz_practise_result" = "%d จาก %d ถูกต้อง";
+"quiz_correct_sign" = "ป้ายที่ถูกต้อง";
+"quiz_correct_signs" = "ป้ายที่ถูกต้อง";
+"NEW HIGH SCORE" = "คะแนนสูงสุดใหม่";
+"High Score:" = "คะแนนสูงสุด:";
+"Review Mistakes" = "ทบทวนข้อผิดพลาด";
+
+"Tour Complete" = "ทัวร์เสร็จสมบูรณ์";
+"Section Passed" = "ผ่านส่วนนี้";
+"Game Over" = "จบเกม";
+"Game Complete" = "เกมเสร็จสมบูรณ์";
+"Time's Up!" = "หมดเวลา!";
+"Section Complete" = "ส่วนนี้เสร็จสมบูรณ์";
+
+"Restart Tour" = "เริ่มทัวร์ใหม่";
+"Continue to Elite" = "ดำเนินการต่อสู่ระดับสูง";
+"Continue" = "ดำเนินการต่อ";
+"Try Again" = "ลองอีกครั้ง";
+
+"Recorded Errors" = "ข้อผิดพลาดที่บันทึก";
+"Incorrect Answers" = "คำตอบที่ไม่ถูกต้อง";
+"Overview" = "ภาพรวม";
+"100% required to pass" = "ต้องการ 100% เพื่อผ่าน";
+"80% required to pass" = "ต้องการ 80% เพื่อผ่าน";
+
+"signs" = "ป้าย";
+
+"questions correctly" = "คำถามที่ถูกต้อง";
+"Try Again" = "ลองอีกครั้ง";
+"Back to Menu" = "กลับสู่เมนู";
+
+"Region" = "ภูมิภาค";
+"Country" = "ประเทศ";
+
+"High Score: %d%%" = "คะแนนสูงสุด: %d%%";
+
+// Initial Setup
+"Welcome to" = "ยินดีต้อนรับสู่";
+"Let's Get Started" = "เริ่มกันเลย";
+"Select country" = "เลือกประเทศ";
+"Select language" = "เลือกภาษา";
+"Switch countries anytime from the home screen" = "เปลี่ยนประเทศได้ทุกเมื่อจากหน้าแรก";
+"Continue" = "ดำเนินการต่อ";
+"Stay Informed" = "รับข้อมูล";
+"We couldn't activate notifications. Please try again." = "เราไม่สามารถเปิดการแจ้งเตือนได้ กรุณาลองอีกครั้ง";
+"Stay updated with new signs, feature releases, and important app notifications." = "รับข้อมูลอัปเดตเกี่ยวกับป้ายใหม่ ฟีเจอร์ใหม่ และการแจ้งเตือนสำคัญ";
+"Skip" = "ข้าม";
+"Enable" = "เปิดใช้งาน";
+"Downloading Signs" = "กำลังดาวน์โหลดป้าย";
+"Buckle Up" = "คาดเข็มขัด";
+"Ready to hit the road!" = "พร้อมออกเดินทาง!";
+"Fuel Required" = "ต้องการเชื้อเพลิง";
+"Fueling Up!" = "กำลังเติมเชื้อเพลิง!";
+"Car is Ready" = "รถพร้อมแล้ว";
+"Download Signs" = "ดาวน์โหลดป้าย";
+"Download the traffic signs to get started" = "ดาวน์โหลดป้ายจราจรเพื่อเริ่มต้น";
+"Downloading traffic signs and challenges." = "กำลังดาวน์โหลดป้ายจราจรและความท้าทาย";
+"Test your knowledge and master traffic rules." = "ทดสอบความรู้และเชี่ยวชาญกฎจราจร";
+"Let's Go" = "ไปกันเลย";
+
+// Countries
+"Andorra" = "อันดอร์รา";
+"Australia" = "ออสเตรเลีย";
+"Austria" = "ออสเตรีย";
+"Bahamas" = "บาฮามาส";
+"Barbados" = "บาร์เบโดส";
+"Belgium" = "เบลเยียม";
+"Belize" = "เบลีซ";
+"Botswana" = "บอตสวานา";
+"Brunei" = "บรูไน";
+"Bulgaria" = "บัลแกเรีย";
+"Canada" = "แคนาดา";
+"Croatia" = "โครเอเชีย";
+"Cyprus" = "ไซปรัส";
+"Czech Republic" = "สาธารณรัฐเช็ก";
+"Denmark" = "เดนมาร์ก";
+"Dominica" = "โดมินิกา";
+"Estonia" = "เอสโตเนีย";
+"Fiji" = "ฟิจิ";
+"Finland" = "ฟินแลนด์";
+"France" = "ฝรั่งเศส";
+"Gambia" = "แกมเบีย";
+"Germany" = "เยอรมนี";
+"Ghana" = "กานา";
+"Greece" = "กรีซ";
+"Grenada" = "เกรเนดา";
+"Guyana" = "กายอานา";
+"Hungary" = "ฮังการี";
+"Iceland" = "ไอซ์แลนด์";
+"India" = "อินเดีย";
+"Ireland" = "ไอร์แลนด์";
+"Italy" = "อิตาลี";
+"Jamaica" = "จาเมกา";
+"Japan" = "ญี่ปุ่น";
+"Kenya" = "เคนยา";
+"Latvia" = "ลัตเวีย";
+"Lesotho" = "เลโซโท";
+"Liberia" = "ไลบีเรีย";
+"Liechtenstein" = "ลิกเตนสไตน์";
+"Lithuania" = "ลิทัวเนีย";
+"Luxembourg" = "ลักเซมเบิร์ก";
+"Malta" = "มอลตา";
+"Malaysia" = "มาเลเซีย";
+"Mauritius" = "มอริเชียส";
+"Monaco" = "โมนาโก";
+"Namibia" = "นามิเบีย";
+"Netherlands" = "เนเธอร์แลนด์";
+"New Zealand" = "นิวซีแลนด์";
+"Nigeria" = "ไนจีเรีย";
+"Norway" = "นอร์เวย์";
+"Pakistan" = "ปากีสถาน";
+"Papua New Guinea" = "ปาปัวนิวกินี";
+"Philippines" = "ฟิลิปปินส์";
+"Poland" = "โปแลนด์";
+"Portugal" = "โปรตุเกส";
+"Romania" = "โรมาเนีย";
+"Rwanda" = "รวันดา";
+"Saint Lucia" = "เซนต์ลูเซีย";
+"San Marino" = "ซานมารีโน";
+"Seychelles" = "เซเชลส์";
+"Sierra Leone" = "เซียร์ราลีโอน";
+"Singapore" = "สิงคโปร์";
+"Slovakia" = "สโลวาเกีย";
+"Slovenia" = "สโลวีเนีย";
+"South Africa" = "แอฟริกาใต้";
+"South Korea" = "เกาหลีใต้";
+"Spain" = "สเปน";
+"Sri Lanka" = "ศรีลังกา";
+"Sweden" = "สวีเดน";
+"Switzerland" = "สวิตเซอร์แลนด์";
+"Tanzania" = "แทนซาเนีย";
+"Thailand" = "ไทย";
+"Trinidad and Tobago" = "ตรินิแดดและโตเบโก";
+"Uganda" = "ยูกันดา";
+"United Kingdom" = "สหราชอาณาจักร";
+"Ukraine" = "ยูเครน";
+"United States" = "สหรัฐอเมริกา";
+"Vatican City" = "นครวาติกัน";
+"Zambia" = "แซมเบีย";
+"Zimbabwe" = "ซิมบับเว";
+
+// Languages
+"English" = "อังกฤษ";
+"Vietnamese" = "เวียดนาม";
+"Portuguese (Brazil)" = "โปรตุเกส (บราซิล)";
+"Ukrainian" = "ยูเครน";
+"Italian" = "อิตาลี";
+"Chinese (Traditional)" = "จีน (ตัวเต็ม)";
+"Korean" = "เกาหลี";
+"German" = "เยอรมัน";
+"Chinese (Simplified)" = "จีน (ตัวย่อ)";
+"Japanese" = "ญี่ปุ่น";
+"Indonesian" = "อินโดนีเซีย";
+"Dutch" = "ดัตช์";
+"French" = "ฝรั่งเศส";
+"Thai" = "ไทย";
+"Spanish" = "สเปน";
+"Turkish" = "ตุรกี";
+"Polish" = "โปแลนด์";
+"Arabic" = "อาหรับ";
+"Russian" = "รัสเซีย";
+"Hindi" = "ฮินดี";
+"Norwegian" = "นอร์เวย์";

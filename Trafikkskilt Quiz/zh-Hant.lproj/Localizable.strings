@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "交通標誌測驗";
+"Let's Play" = "開始遊戲";
+"Training Zone" = "訓練區";
+"Updating" = "正在更新";
+
+"Language not supported" = "不支援該語言";
+"Use English" = "使用英語";
+"language_not_supported_for_country" = "%@不支援%@。";
+"Translation required" = "需要翻譯";
+"Translate" = "翻譯";
+"use_country" = "使用%@";
+"view_content_in_language" = "以%@檢視此內容?";
+"Update complete" = "更新完成";
+"Translating" = "正在翻譯";
+"Translation complete" = "翻譯完成";
+"Translation failed" = "翻譯失敗";
+
+// Settings
+"Settings" = "設定";
+"Loading Settings…" = "正在載入設定…";
+"Select Language" = "選擇語言";
+"Notifications" = "通知";
+"Enable Notifications" = "啟用通知";
+"Allow" = "允許";
+"Game Effects" = "遊戲效果";
+"Sound Effects" = "音效";
+"Haptics" = "觸覺反饋";
+"Premium" = "高級版";
+"You have Premium access" = "您已擁有高級版";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "享受無廣告體驗。感謝您對應用程式的支援。";
+"Upgrade to Premium" = "升級到高級版";
+"Support the app and enjoy an ad-free experience" = "支援應用程式並享受無廣告體驗";
+"Remove Ads" = "移除廣告";
+"Restore Purchases" = "回復購買";
+"Loading…" = "正在載入…";
+"Privacy Policy" = "隱私權政策";
+"Read the policy" = "閱讀政策";
+"App Version:" = "應用程式版本:";
+
+// Country Info View
+"Information" = "資訊";
+
+"TrafficRules" = "交通規則";
+
+"Driving_Side" = "行駛方向";
+"Alcohol_Limit" = "酒精限制";
+"Emergency_Number" = "緊急電話";
+
+"Driving_Side_small" = "行駛\n方向";
+"Alcohol_Limit_small" = "酒精\n限制";
+"Emergency_Number_small" = "緊急\n電話";
+
+"Driving_Side_pad" = "行駛方向";
+"Alcohol_Limit_pad" = "酒精限制";
+"Emergency_Number_pad" = "緊急電話";
+
+"Right" = "靠右";
+"Left" = "靠左";
+
+"Traffic Rules" = "交通規則";
+"Speed Limits" = "速限";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "這些速限適用於沒有其他速限標誌的地方。遵守速限並根據能見度差或路面濕滑等情況調整駕駛非常重要。";
+"Urban" = "市區";
+"Rural" = "郊區";
+"Motorway" = "高速公路";
+"km/h" = "公里/小時";
+"mph" = "英里/小時";
+
+// Pick Game View
+"Pick a Game" = "選擇遊戲";
+"Choose Your Drive. Own the road." = "選擇你的駕駛。掌控道路。";
+"Grand Tour" = "大巡遊";
+"Mixed Quiz" = "混合測驗";
+"Beat the Clock" = "爭分奪秒";
+"Flip & Match" = "翻牌配對";
+"All signs. Section by section. Limited lives." = "所有標誌。逐節進行。生命有限。";
+"All signs. Section by section. One life." = "所有標誌。逐節進行。一條生命。";
+"Random signs. Decreasing time limit. Three Lives." = "隨機標誌。時間遞減。三條生命。";
+"Watch the timer. Keep moving. Earn or lose seconds." = "注意計時器。保持前進。贏得或失去秒數。";
+"Flip the cards. Find the match. Test your memory." = "翻開卡片。找到配對。測試你的記憶。";
+"Play" = "開始";
+"HIGH SCORE: %d SIGNS" = "最高分: %d 個標誌";
+"NO HIGH SCORE" = "暫無最高分";
+"BONUS GAME" = "獎勵遊戲";
+"COMPLETED" = "已完成";
+"Play Now" = "立即開始";
+"Play Quiz" = "開始測驗";
+"Start Tour" = "開始巡遊";
+
+"Restart Grand Tour?" = "重新開始大巡遊？";
+"Restart" = "重新開始";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "這將刪除所有章節和子章節的最高分，並重置您的巡遊進度。此操作無法撤銷。";
+
+"section_of_format" = "第%d節 共%d節";
+
+// Game Intro
+"Get Ready" = "準備好";
+"signs_life" = "%d個標誌 - %d條生命";
+"signs_lives" = "%d個標誌 - %d條生命";
+"amount_signs" = "%d個標誌";
+"3 Lives" = "3條生命";
+"60 Seconds" = "60秒";
+"5 Lives" = "5條生命";
+
+// Training Zone
+"Learn the rules. Beat the game." = "學習規則。通關遊戲。";
+"%d signs" = "%d個標誌";
+"High Score: 0%" = "最高分: 0%";
+"Start Quiz" = "開始測驗";
+"Driver's Guide" = "駕駛指南";
+
+// Learn Signs View
+"Explore each category below." = "探索下面的每個類別。";
+"Explore all the signs below." = "探索下面的所有標誌。";
+
+// Mistakes View
+"info_missed_one_sub" = "您在**%@**的**%@**中答錯了1個標誌。在下次上路前掌握它。";
+"info_missed_many_sub" = "您在**%@**的**%@**中答錯了%d個標誌。複習它們以保持正軌。";
+"info_missed_one_section" = "您在**%@**中答錯了1個標誌。在下次駕駛前熟練掌握。";
+"info_missed_many_section" = "您在**%@**中答錯了%d個標誌。在下次駕駛前複習它們。";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "準備好!";
+"Memorize" = "記憶";
+"Get ready for next Round" = "準備下一輪";
+"memory_round" = "第%d輪";
+"+3 Lives" = "+3條生命";
+
+// Alerts
+"Exit quiz?" = "退出測驗?";
+"Exit game?" = "退出遊戲?";
+"You will lose your progress in this quiz." = "您將失去此測驗的進度。";
+"You will lose your progress in this game." = "您將失去此遊戲的進度。";
+"Cancel" = "取消";
+"Exit" = "退出";
+
+// Image Errors
+"no_images_available" = "沒有可用的%@圖片";
+"failed_to_load_image" = "無法載入%@的圖片";
+
+// Game Completion View
+"quiz_practise_result" = "%d/%d答對";
+"quiz_correct_sign" = "答對的標誌";
+"quiz_correct_signs" = "答對的標誌";
+"NEW HIGH SCORE" = "新最高分";
+"High Score:" = "最高分:";
+"Review Mistakes" = "複習錯誤";
+
+"Tour Complete" = "巡遊完成";
+"Section Passed" = "通過該節";
+"Game Over" = "遊戲結束";
+"Game Complete" = "遊戲完成";
+"Time's Up!" = "時間到!";
+"Section Complete" = "該節完成";
+
+"Restart Tour" = "重新開始巡遊";
+"Continue to Elite" = "繼續到精英模式";
+"Continue" = "繼續";
+"Try Again" = "重試";
+
+"Recorded Errors" = "記錄的錯誤";
+"Incorrect Answers" = "錯誤答案";
+"Overview" = "概覽";
+"100% required to pass" = "需要100%才能通過";
+"80% required to pass" = "需要80%才能通過";
+
+"signs" = "標誌";
+
+"questions correctly" = "正確答題";
+"Try Again" = "重試";
+"Back to Menu" = "返回選單";
+
+"Region" = "地區";
+"Country" = "國家";
+
+"High Score: %d%%" = "最高分: %d%%";
+
+// Initial Setup
+"Welcome to" = "歡迎來到";
+"Let's Get Started" = "開始吧";
+"Select country" = "選擇國家";
+"Select language" = "選擇語言";
+"Switch countries anytime from the home screen" = "隨時可以從主畫面切換國家";
+"Continue" = "繼續";
+"Stay Informed" = "保持知情";
+"We couldn't activate notifications. Please try again." = "無法啟用通知。請重試。";
+"Stay updated with new signs, feature releases, and important app notifications." = "獲取新標誌、功能發布和重要應用程式通知的最新資訊。";
+"Skip" = "跳過";
+"Enable" = "啟用";
+"Downloading Signs" = "正在下載標誌";
+"Buckle Up" = "繫好安全帶";
+"Ready to hit the road!" = "準備上路!";
+"Fuel Required" = "需要燃料";
+"Fueling Up!" = "正在加油!";
+"Car is Ready" = "汽車已就緒";
+"Download Signs" = "下載標誌";
+"Download the traffic signs to get started" = "下載交通標誌以開始";
+"Downloading traffic signs and challenges." = "正在下載交通標誌和挑戰。";
+"Test your knowledge and master traffic rules." = "測試您的知識並掌握交通規則。";
+"Let's Go" = "出發";
+
+// Countries
+"Andorra" = "安道爾";
+"Australia" = "澳洲";
+"Austria" = "奧地利";
+"Bahamas" = "巴哈馬";
+"Barbados" = "巴貝多";
+"Belgium" = "比利時";
+"Belize" = "貝里斯";
+"Botswana" = "波札那";
+"Brunei" = "汶萊";
+"Bulgaria" = "保加利亞";
+"Canada" = "加拿大";
+"Croatia" = "克羅埃西亞";
+"Cyprus" = "賽普勒斯";
+"Czech Republic" = "捷克";
+"Denmark" = "丹麥";
+"Dominica" = "多米尼克";
+"Estonia" = "愛沙尼亞";
+"Fiji" = "斐濟";
+"Finland" = "芬蘭";
+"France" = "法國";
+"Gambia" = "甘比亞";
+"Germany" = "德國";
+"Ghana" = "迦納";
+"Greece" = "希臘";
+"Grenada" = "格瑞那達";
+"Guyana" = "蓋亞那";
+"Hungary" = "匈牙利";
+"Iceland" = "冰島";
+"India" = "印度";
+"Ireland" = "愛爾蘭";
+"Italy" = "義大利";
+"Jamaica" = "牙買加";
+"Japan" = "日本";
+"Kenya" = "肯亞";
+"Latvia" = "拉脫維亞";
+"Lesotho" = "賴索托";
+"Liberia" = "賴比瑞亞";
+"Liechtenstein" = "列支敦斯登";
+"Lithuania" = "立陶宛";
+"Luxembourg" = "盧森堡";
+"Malta" = "馬爾他";
+"Malaysia" = "馬來西亞";
+"Mauritius" = "模里西斯";
+"Monaco" = "摩納哥";
+"Namibia" = "納米比亞";
+"Netherlands" = "荷蘭";
+"New Zealand" = "紐西蘭";
+"Nigeria" = "奈及利亞";
+"Norway" = "挪威";
+"Pakistan" = "巴基斯坦";
+"Papua New Guinea" = "巴布亞紐幾內亞";
+"Philippines" = "菲律賓";
+"Poland" = "波蘭";
+"Portugal" = "葡萄牙";
+"Romania" = "羅馬尼亞";
+"Rwanda" = "盧安達";
+"Saint Lucia" = "聖露西亞";
+"San Marino" = "聖馬利諾";
+"Seychelles" = "塞席爾";
+"Sierra Leone" = "獅子山";
+"Singapore" = "新加坡";
+"Slovakia" = "斯洛伐克";
+"Slovenia" = "斯洛維尼亞";
+"South Africa" = "南非";
+"South Korea" = "南韓";
+"Spain" = "西班牙";
+"Sri Lanka" = "斯里蘭卡";
+"Sweden" = "瑞典";
+"Switzerland" = "瑞士";
+"Tanzania" = "坦尚尼亞";
+"Thailand" = "泰國";
+"Trinidad and Tobago" = "千里達及托巴哥";
+"Uganda" = "烏干達";
+"United Kingdom" = "英國";
+"Ukraine" = "烏克蘭";
+"United States" = "美國";
+"Vatican City" = "梵蒂岡";
+"Zambia" = "尚比亞";
+"Zimbabwe" = "辛巴威";
+
+// Languages
+"English" = "英語";
+"Vietnamese" = "越南語";
+"Portuguese (Brazil)" = "葡萄牙語(巴西)";
+"Ukrainian" = "烏克蘭語";
+"Italian" = "義大利語";
+"Chinese (Traditional)" = "中文(繁體)";
+"Korean" = "韓語";
+"German" = "德語";
+"Chinese (Simplified)" = "中文(簡體)";
+"Japanese" = "日語";
+"Indonesian" = "印尼語";
+"Dutch" = "荷蘭語";
+"French" = "法語";
+"Thai" = "泰語";
+"Spanish" = "西班牙語";
+"Turkish" = "土耳其語";
+"Polish" = "波蘭語";
+"Arabic" = "阿拉伯語";
+"Russian" = "俄語";
+"Hindi" = "印地語";
+"Norwegian" = "挪威語";

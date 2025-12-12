@@ -1,0 +1,314 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// الصفحة الرئيسية// Home Screen
+"Traffic Sign Quiz" = "اختبار إشارات المرور";
+"Let's Play" = "لنلعب";
+"Training Zone" = "منطقة التدريب";
+"Updating" = "جاري التحديث";
+
+"Language not supported" = "اللغة غير مدعومة";
+"Use English" = "استخدم الإنجليزية";
+"language_not_supported_for_country" = "%@ غير مدعومة في %@.";
+"Translation required" = "الترجمة مطلوبة";
+"Translate" = "ترجم";
+"use_country" = "استخدم %@";
+"view_content_in_language" = "عرض هذا المحتوى بـ%@؟";
+"Update complete" = "اكتمل التحديث";
+"Translating" = "جاري الترجمة";
+"Translation complete" = "اكتملت الترجمة";
+"Translation failed" = "فشلت الترجمة";
+
+// Settings
+"Settings" = "الإعدادات";
+"Loading Settings…" = "جاري تحميل الإعدادات…";
+"Select Language" = "اختر اللغة";
+"Notifications" = "الإشعارات";
+"Enable Notifications" = "تفعيل الإشعارات";
+"Allow" = "السماح";
+"Game Effects" = "مؤثرات اللعبة";
+"Sound Effects" = "المؤثرات الصوتية";
+"Haptics" = "الاهتزاز";
+"Premium" = "بريميوم";
+"You have Premium access" = "لديك وصول بريميوم";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "استمتع بتجربة خالية من الإعلانات. شكراً لدعمك للتطبيق.";
+"Upgrade to Premium" = "الترقية إلى بريميوم";
+"Support the app and enjoy an ad-free experience" = "ادعم التطبيق واستمتع بتجربة خالية من الإعلانات";
+"Remove Ads" = "إزالة الإعلانات";
+"Restore Purchases" = "استعادة المشتريات";
+"Loading…" = "جاري التحميل…";
+"Privacy Policy" = "سياسة الخصوصية";
+"Read the policy" = "اقرأ السياسة";
+"App Version:" = "إصدار التطبيق:";
+
+// Country Info View
+"Information" = "معلومات";
+
+"TrafficRules" = "قواعد المرور";
+
+"Driving_Side" = "جانب القيادة";
+"Alcohol_Limit" = "حد الكحول";
+"Emergency_Number" = "رقم الطوارئ";
+
+"Driving_Side_small" = "جانب\nالقيادة";
+"Alcohol_Limit_small" = "حد\nالكحول";
+"Emergency_Number_small" = "رقم\nالطوارئ";
+
+"Driving_Side_pad" = "جانب القيادة";
+"Alcohol_Limit_pad" = "حد الكحول";
+"Emergency_Number_pad" = "رقم الطوارئ";
+
+"Right" = "اليمين";
+"Left" = "اليسار";
+
+"Traffic Rules" = "قواعد المرور";
+"Speed Limits" = "حدود السرعة";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "تُطبق حدود السرعة هذه حيث لا توجد حدود أخرى معلنة. من المهم الالتزام بحدود السرعة وتعديل قيادتك حسب الظروف مثل ضعف الرؤية أو الطرق الزلقة.";
+"Urban" = "داخل المدن";
+"Rural" = "خارج المدن";
+"Motorway" = "الطريق السريع";
+"km/h" = "كم/س";
+"mph" = "ميل/س";
+
+// Pick Game View
+"Pick a Game" = "اختر لعبة";
+"Choose Your Drive. Own the road." = "اختر طريقك. تحكم بالطريق.";
+"Grand Tour" = "الجولة الكبرى";
+"Mixed Quiz" = "اختبار متنوع";
+"Beat the Clock" = "سباق مع الزمن";
+"Flip & Match" = "اقلب وطابق";
+"All signs. Section by section. Limited lives." = "جميع الإشارات. قسماً بقسم. أرواح محدودة.";
+"All signs. Section by section. One life." = "جميع الإشارات. قسماً بقسم. حياة واحدة.";
+"Random signs. Decreasing time limit. Three Lives." = "إشارات عشوائية. وقت متناقص. ثلاث أرواح.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "راقب المؤقت. استمر بالحركة. اكسب أو اخسر ثوانٍ.";
+"Flip the cards. Find the match. Test your memory." = "اقلب البطاقات. ابحث عن المطابقة. اختبر ذاكرتك.";
+"Play" = "العب";
+"HIGH SCORE: %d SIGNS" = "أعلى نتيجة: %d إشارة";
+"NO HIGH SCORE" = "لا توجد نتيجة سابقة";
+"BONUS GAME" = "لعبة إضافية";
+"COMPLETED" = "مكتمل";
+"Play Now" = "العب الآن";
+"Play Quiz" = "ابدأ الاختبار";
+"Start Tour" = "ابدأ الجولة";
+
+"Restart Grand Tour?" = "إعادة تشغيل الجولة الكبرى؟";
+"Restart" = "إعادة التشغيل";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "سيؤدي هذا إلى مسح جميع أعلى الدرجات في الأقسام والفروع وإعادة تعيين تقدمك في الجولة. لا يمكن التراجع عن هذا الإجراء.";
+
+"section_of_format" = "القسم %d من %d";
+
+// Game Intro
+"Get Ready" = "استعد";
+"signs_life" = "%d إشارة - حياة واحدة";
+"signs_lives" = "%d إشارة - %d أرواح";
+"amount_signs" = "%d إشارات";
+"3 Lives" = "3 أرواح";
+"60 Seconds" = "60 ثانية";
+"5 Lives" = "5 أرواح";
+
+// Training Zone
+"Learn the rules. Beat the game." = "تعلم القواعد. اغلب اللعبة.";
+"%d signs" = "%d إشارات";
+"High Score: 0%" = "أعلى نتيجة: 0%";
+"Start Quiz" = "ابدأ الاختبار";
+"Driver's Guide" = "دليل السائق";
+
+// Learn Signs View
+"Explore each category below." = "استكشف كل فئة أدناه.";
+"Explore all the signs below." = "استكشف جميع الإشارات أدناه.";
+
+// Mistakes View
+"info_missed_one_sub" = "لقد أخطأت في إشارة واحدة من **%@** في **%@**. أتقنها قبل رحلتك القادمة.";
+"info_missed_many_sub" = "لقد أخطأت في %d إشارات من **%@** في **%@**. راجعها لتبقى على المسار الصحيح.";
+"info_missed_one_section" = "لقد أخطأت في إشارة واحدة من **%@**. راجعها قبل القيادة القادمة.";
+"info_missed_many_section" = "لقد أخطأت في %d إشارات من **%@**. راجعها قبل رحلتك القادمة.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "استعد!";
+"Memorize" = "احفظ";
+"Get ready for next Round" = "استعد للجولة القادمة";
+"memory_round" = "الجولة %d";
+"+3 Lives" = "+3 أرواح";
+
+// Alerts
+"Exit quiz?" = "الخروج من الاختبار؟";
+"Exit game?" = "الخروج من اللعبة؟";
+"You will lose your progress in this quiz." = "ستفقد تقدمك في هذا الاختبار.";
+"You will lose your progress in this game." = "ستفقد تقدمك في هذه اللعبة.";
+"Cancel" = "إلغاء";
+"Exit" = "خروج";
+
+// Image Errors
+"no_images_available" = "لا توجد صور متاحة لـ%@ ";
+"failed_to_load_image" = "فشل تحميل صورة %@ ";
+
+// Game Completion View
+"quiz_practise_result" = "%d من %d إجابة صحيحة";
+"quiz_correct_sign" = "إشارة صحيحة";
+"quiz_correct_signs" = "إشارات صحيحة";
+"NEW HIGH SCORE" = "رقم قياسي جديد";
+"High Score:" = "أعلى نتيجة:";
+"Review Mistakes" = "راجع الأخطاء";
+
+"Tour Complete" = "اكتملت الجولة";
+"Section Passed" = "نجحت في القسم";
+"Game Over" = "انتهت اللعبة";
+"Game Complete" = "اكتملت اللعبة";
+"Time's Up!" = "انتهى الوقت!";
+"Section Complete" = "اكتمل القسم";
+
+"Restart Tour" = "أعد الجولة";
+"Continue to Elite" = "تابع إلى المستوى المتقدم";
+"Continue" = "متابعة";
+"Try Again" = "حاول مجدداً";
+
+"Recorded Errors" = "الأخطاء المسجلة";
+"Incorrect Answers" = "إجابات خاطئة";
+"Overview" = "نظرة عامة";
+"100% required to pass" = "النجاح يتطلب 100%";
+"80% required to pass" = "النجاح يتطلب 80%";
+
+"signs" = "إشارات";
+
+"questions correctly" = "أسئلة صحيحة";
+"Back to Menu" = "العودة للقائمة";
+
+"Region" = "المنطقة";
+"Country" = "الدولة";
+
+"High Score: %d%%" = "أعلى نتيجة: %d%%";
+
+// Initial Setup
+"Welcome to" = "مرحباً بك في";
+"Let's Get Started" = "لنبدأ";
+"Select country" = "اختر الدولة";
+"Select language" = "اختر اللغة";
+"Switch countries anytime from the home screen" = "يمكنك تغيير الدولة في أي وقت من الشاشة الرئيسية";
+"Continue" = "متابعة";
+"Stay Informed" = "ابقَ على اطلاع";
+"We couldn't activate notifications. Please try again." = "لم نتمكن من تفعيل الإشعارات. يرجى المحاولة مرة أخرى.";
+"Stay updated with new signs, feature releases, and important app notifications." = "ابقَ محدثاً بالإشارات الجديدة وآخر الميزات والإشعارات المهمة.";
+"Skip" = "تخطي";
+"Enable" = "تفعيل";
+"Downloading Signs" = "جاري تنزيل الإشارات";
+"Buckle Up" = "اربط حزام الأمان";
+"Ready to hit the road!" = "جاهز للانطلاق!";
+"Fuel Required" = "يلزم وقود";
+"Fueling Up!" = "جاري التزود بالوقود!";
+"Car is Ready" = "السيارة جاهزة";
+"Download Signs" = "تنزيل الإشارات";
+"Download the traffic signs to get started" = "نزّل إشارات المرور للبدء";
+"Downloading traffic signs and challenges." = "جاري تنزيل إشارات المرور والتحديات.";
+"Test your knowledge and master traffic rules." = "اختبر معرفتك وأتقن قواعد المرور.";
+"Let's Go" = "لننطلق";
+
+// Countries
+"Andorra" = "أندورا";
+"Australia" = "أستراليا";
+"Austria" = "النمسا";
+"Bahamas" = "جزر البهاما";
+"Barbados" = "باربادوس";
+"Belgium" = "بلجيكا";
+"Belize" = "بليز";
+"Botswana" = "بوتسوانا";
+"Brunei" = "بروناي";
+"Bulgaria" = "بلغاريا";
+"Canada" = "كندا";
+"Croatia" = "كرواتيا";
+"Cyprus" = "قبرص";
+"Czech Republic" = "التشيك";
+"Denmark" = "الدنمارك";
+"Dominica" = "دومينيكا";
+"Estonia" = "إستونيا";
+"Fiji" = "فيجي";
+"Finland" = "فنلندا";
+"France" = "فرنسا";
+"Gambia" = "غامبيا";
+"Germany" = "ألمانيا";
+"Ghana" = "غانا";
+"Greece" = "اليونان";
+"Grenada" = "غرينادا";
+"Guyana" = "غيانا";
+"Hungary" = "المجر";
+"Iceland" = "آيسلندا";
+"India" = "الهند";
+"Ireland" = "آيرلندا";
+"Italy" = "إيطاليا";
+"Jamaica" = "جامايكا";
+"Japan" = "اليابان";
+"Kenya" = "كينيا";
+"Latvia" = "لاتفيا";
+"Lesotho" = "ليسوتو";
+"Liberia" = "ليبيريا";
+"Liechtenstein" = "ليختنشتاين";
+"Lithuania" = "ليتوانيا";
+"Luxembourg" = "لوكسمبورغ";
+"Malta" = "مالطا";
+"Malaysia" = "ماليزيا";
+"Mauritius" = "موريشيوس";
+"Monaco" = "موناكو";
+"Namibia" = "ناميبيا";
+"Netherlands" = "هولندا";
+"New Zealand" = "نيوزيلندا";
+"Nigeria" = "نيجيريا";
+"Norway" = "النرويج";
+"Pakistan" = "باكستان";
+"Papua New Guinea" = "بابوا غينيا الجديدة";
+"Philippines" = "الفلبين";
+"Poland" = "بولندا";
+"Portugal" = "البرتغال";
+"Romania" = "رومانيا";
+"Rwanda" = "رواندا";
+"Saint Lucia" = "سانت لوسيا";
+"San Marino" = "سان مارينو";
+"Seychelles" = "سيشل";
+"Sierra Leone" = "سيراليون";
+"Singapore" = "سنغافورة";
+"Slovakia" = "سلوفاكيا";
+"Slovenia" = "سلوفينيا";
+"South Africa" = "جنوب أفريقيا";
+"South Korea" = "كوريا الجنوبية";
+"Spain" = "إسبانيا";
+"Sri Lanka" = "سريلانكا";
+"Sweden" = "السويد";
+"Switzerland" = "سويسرا";
+"Tanzania" = "تنزانيا";
+"Thailand" = "تايلاند";
+"Trinidad and Tobago" = "ترينيداد وتوباغو";
+"Uganda" = "أوغندا";
+"United Kingdom" = "المملكة المتحدة";
+"Ukraine" = "أوكرانيا";
+"United States" = "الولايات المتحدة";
+"Vatican City" = "الفاتيكان";
+"Zambia" = "زامبيا";
+"Zimbabwe" = "زيمبابوي";
+
+// Languages
+"English" = "الإنجليزية";
+"Vietnamese" = "الفيتنامية";
+"Portuguese (Brazil)" = "البرتغالية (البرازيل)";
+"Ukrainian" = "الأوكرانية";
+"Italian" = "الإيطالية";
+"Chinese (Traditional)" = "الصينية (التقليدية)";
+"Korean" = "الكورية";
+"German" = "الألمانية";
+"Chinese (Simplified)" = "الصينية (المبسطة)";
+"Japanese" = "اليابانية";
+"Indonesian" = "الإندونيسية";
+"Dutch" = "الهولندية";
+"French" = "الفرنسية";
+"Thai" = "التايلاندية";
+"Spanish" = "الإسبانية";
+"Turkish" = "التركية";
+"Polish" = "البولندية";
+"Arabic" = "العربية";
+"Russian" = "الروسية";
+"Hindi" = "الهندية";
+"Norwegian" = "النرويجية";

@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Kuis Rambu Lalu Lintas";
+"Let's Play" = "Mulai Permainan";
+"Training Zone" = "Zona Latihan";
+"Updating" = "Memperbarui";
+
+"Language not supported" = "Bahasa tidak didukung";
+"Use English" = "Gunakan bahasa Inggris";
+"language_not_supported_for_country" = "%@ tidak didukung untuk %@.";
+"Translation required" = "Terjemahan diperlukan";
+"Translate" = "Terjemahkan";
+"use_country" = "Gunakan %@";
+"view_content_in_language" = "Lihat konten ini dalam %@?";
+"Update complete" = "Pembaruan selesai";
+"Translating" = "Menerjemahkan";
+"Translation complete" = "Terjemahan selesai";
+"Translation failed" = "Terjemahan gagal";
+
+// Settings
+"Settings" = "Pengaturan";
+"Loading Settings…" = "Memuat pengaturan…";
+"Select Language" = "Pilih bahasa";
+"Notifications" = "Notifikasi";
+"Enable Notifications" = "Aktifkan notifikasi";
+"Allow" = "Izinkan";
+"Game Effects" = "Efek permainan";
+"Sound Effects" = "Efek suara";
+"Haptics" = "Haptik";
+"Premium" = "Premium";
+"You have Premium access" = "Anda memiliki akses Premium";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Nikmati pengalaman tanpa iklan. Terima kasih telah mendukung aplikasi ini.";
+"Upgrade to Premium" = "Upgrade ke Premium";
+"Support the app and enjoy an ad-free experience" = "Dukung aplikasi dan nikmati pengalaman tanpa iklan";
+"Remove Ads" = "Hapus iklan";
+"Restore Purchases" = "Pulihkan pembelian";
+"Loading…" = "Memuat…";
+"Privacy Policy" = "Kebijakan privasi";
+"Read the policy" = "Baca kebijakan";
+"App Version:" = "Versi aplikasi:";
+
+// Country Info View
+"Information" = "Informasi";
+
+"TrafficRules" = "Peraturan lalu lintas";
+
+"Driving_Side" = "Sisi\nBerkendara";
+"Alcohol_Limit" = "Batas\nAlkohol";
+"Emergency_Number" = "Nomor\nDarurat";
+
+"Driving_Side_small" = "Sisi\nBerkendara";
+"Alcohol_Limit_small" = "Batas\nAlkohol";
+"Emergency_Number_small" = "Nomor\nDarurat";
+
+"Driving_Side_pad" = "Sisi berkendara";
+"Alcohol_Limit_pad" = "Batas alkohol";
+"Emergency_Number_pad" = "Nomor darurat";
+
+"Right" = "Kanan";
+"Left" = "Kiri";
+
+"Traffic Rules" = "Peraturan lalu lintas";
+"Speed Limits" = "Batas kecepatan";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Batas kecepatan ini berlaku di mana tidak ada batas lain yang dipasang. Penting untuk mengikuti batas kecepatan dan menyesuaikan berkendara Anda dengan kondisi seperti jarak pandang buruk atau jalan licin.";
+"Urban" = "Perkotaan";
+"Rural" = "Pedesaan";
+"Motorway" = "Jalan tol";
+"km/h" = "km/jam";
+"mph" = "mph";
+
+// Pick Game View
+"Pick a Game" = "Pilih permainan";
+"Choose Your Drive. Own the road." = "Pilih perjalanan Anda. Kuasai jalan.";
+"Grand Tour" = "Grand Tour";
+"Mixed Quiz" = "Kuis Campuran";
+"Beat the Clock" = "Lawan Waktu";
+"Flip & Match" = "Balik & Cocokkan";
+"All signs. Section by section. Limited lives." = "Semua rambu. Bagian demi bagian. Nyawa terbatas.";
+"All signs. Section by section. One life." = "Semua rambu. Bagian demi bagian. Satu nyawa.";
+"Random signs. Decreasing time limit. Three Lives." = "Rambu acak. Waktu berkurang. Tiga nyawa.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Perhatikan timer. Terus bergerak. Dapatkan atau kehilangan detik.";
+"Flip the cards. Find the match. Test your memory." = "Balik kartu. Temukan pasangan. Uji ingatan Anda.";
+"Play" = "Main";
+"HIGH SCORE: %d SIGNS" = "SKOR TERTINGGI: %d RAMBU";
+"NO HIGH SCORE" = "TIDAK ADA SKOR TERTINGGI";
+"BONUS GAME" = "PERMAINAN BONUS";
+"COMPLETED" = "SELESAI";
+"Play Now" = "Main sekarang";
+"Play Quiz" = "Main kuis";
+"Start Tour" = "Mulai tur";
+
+"Restart Grand Tour?" = "Mulai Ulang Grand Tour?";
+"Restart" = "Mulai Ulang";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Ini akan menghapus semua skor tertinggi di bagian dan sub-bagian serta mengatur ulang kemajuan tur Anda. Tindakan ini tidak dapat dibatalkan.";
+
+"section_of_format" = "Bagian %d dari %d";
+
+// Game Intro
+"Get Ready" = "Bersiaplah";
+"signs_life" = "%d Rambu - %d Nyawa";
+"signs_lives" = "%d Rambu - %d Nyawa";
+"amount_signs" = "%d Rambu";
+"3 Lives" = "3 Nyawa";
+"60 Seconds" = "60 Detik";
+"5 Lives" = "5 Nyawa";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Pelajari aturan. Taklukkan permainan.";
+"%d signs" = "%d rambu";
+"High Score: 0%" = "Skor tertinggi: 0%";
+"Start Quiz" = "Mulai kuis";
+"Driver's Guide" = "Panduan Pengemudi";
+
+// Learn Signs View
+"Explore each category below." = "Jelajahi setiap kategori di bawah.";
+"Explore all the signs below." = "Jelajahi semua rambu di bawah.";
+
+// Mistakes View
+"info_missed_one_sub" = "Anda melewatkan 1 rambu dari **%@** di **%@**. Kuasai ini sebelum perjalanan berikutnya.";
+"info_missed_many_sub" = "Anda melewatkan %d rambu dari **%@** di **%@**. Tinjau mereka dan tetap di jalur.";
+"info_missed_one_section" = "Anda melewatkan 1 rambu dari **%@**. Perbaiki sebelum berkendara berikutnya.";
+"info_missed_many_section" = "Anda melewatkan %d rambu dari **%@**. Pelajari lagi sebelum perjalanan berikutnya.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Bersiaplah!";
+"Memorize" = "Hafal";
+"Get ready for next Round" = "Bersiap untuk ronde berikutnya";
+"memory_round" = "Ronde %d";
+"+3 Lives" = "+3 Nyawa";
+
+// Alerts
+"Exit quiz?" = "Keluar dari kuis?";
+"Exit game?" = "Keluar dari permainan?";
+"You will lose your progress in this quiz." = "Anda akan kehilangan kemajuan dalam kuis ini.";
+"You will lose your progress in this game." = "Anda akan kehilangan kemajuan dalam permainan ini.";
+"Cancel" = "Batal";
+"Exit" = "Keluar";
+
+// Image Errors
+"no_images_available" = "Tidak ada gambar tersedia untuk %@";
+"failed_to_load_image" = "Gagal memuat gambar untuk %@";
+
+// Game Completion View
+"quiz_practise_result" = "%d dari %d benar";
+"quiz_correct_sign" = "Rambu benar";
+"quiz_correct_signs" = "Rambu benar";
+"NEW HIGH SCORE" = "SKOR TERTINGGI BARU";
+"High Score:" = "Skor tertinggi:";
+"Review Mistakes" = "Tinjau kesalahan";
+
+"Tour Complete" = "Tur selesai";
+"Section Passed" = "Bagian lulus";
+"Game Over" = "Permainan berakhir";
+"Game Complete" = "Permainan selesai";
+"Time's Up!" = "Waktu habis!";
+"Section Complete" = "Bagian selesai";
+
+"Restart Tour" = "Mulai ulang tur";
+"Continue to Elite" = "Lanjut ke Elite";
+"Continue" = "Lanjutkan";
+"Try Again" = "Coba lagi";
+
+"Recorded Errors" = "Kesalahan tercatat";
+"Incorrect Answers" = "Jawaban salah";
+"Overview" = "Ringkasan";
+"100% required to pass" = "100% diperlukan untuk lulus";
+"80% required to pass" = "80% diperlukan untuk lulus";
+
+"signs" = "rambu";
+
+"questions correctly" = "pertanyaan dengan benar";
+"Try Again" = "Coba lagi";
+"Back to Menu" = "Kembali ke menu";
+
+"Region" = "Wilayah";
+"Country" = "Negara";
+
+"High Score: %d%%" = "Skor tertinggi: %d%%";
+
+// Initial Setup
+"Welcome to" = "Selamat datang di";
+"Let's Get Started" = "Mari mulai";
+"Select country" = "Pilih negara";
+"Select language" = "Pilih bahasa";
+"Switch countries anytime from the home screen" = "Ganti negara kapan saja dari layar utama";
+"Continue" = "Lanjutkan";
+"Stay Informed" = "Tetap terinformasi";
+"We couldn't activate notifications. Please try again." = "Kami tidak dapat mengaktifkan notifikasi. Silakan coba lagi.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Tetap diperbarui dengan rambu baru, rilis fitur, dan notifikasi aplikasi penting.";
+"Skip" = "Lewati";
+"Enable" = "Aktifkan";
+"Downloading Signs" = "Mengunduh rambu";
+"Buckle Up" = "Pakai sabuk pengaman";
+"Ready to hit the road!" = "Siap untuk perjalanan!";
+"Fuel Required" = "Bahan bakar diperlukan";
+"Fueling Up!" = "Mengisi bahan bakar!";
+"Car is Ready" = "Mobil siap";
+"Download Signs" = "Unduh rambu";
+"Download the traffic signs to get started" = "Unduh rambu lalu lintas untuk memulai";
+"Downloading traffic signs and challenges." = "Mengunduh rambu lalu lintas dan tantangan.";
+"Test your knowledge and master traffic rules." = "Uji pengetahuan Anda dan kuasai peraturan lalu lintas.";
+"Let's Go" = "Ayo";
+
+// Countries
+"Andorra" = "Andorra";
+"Australia" = "Australia";
+"Austria" = "Austria";
+"Bahamas" = "Bahama";
+"Barbados" = "Barbados";
+"Belgium" = "Belgia";
+"Belize" = "Belize";
+"Botswana" = "Botswana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgaria";
+"Canada" = "Kanada";
+"Croatia" = "Kroasia";
+"Cyprus" = "Siprus";
+"Czech Republic" = "Republik Ceko";
+"Denmark" = "Denmark";
+"Dominica" = "Dominika";
+"Estonia" = "Estonia";
+"Fiji" = "Fiji";
+"Finland" = "Finlandia";
+"France" = "Prancis";
+"Gambia" = "Gambia";
+"Germany" = "Jerman";
+"Ghana" = "Ghana";
+"Greece" = "Yunani";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Hungaria";
+"Iceland" = "Islandia";
+"India" = "India";
+"Ireland" = "Irlandia";
+"Italy" = "Italia";
+"Jamaica" = "Jamaika";
+"Japan" = "Jepang";
+"Kenya" = "Kenya";
+"Latvia" = "Latvia";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Lituania";
+"Luxembourg" = "Luksemburg";
+"Malta" = "Malta";
+"Malaysia" = "Malaysia";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monako";
+"Namibia" = "Namibia";
+"Netherlands" = "Belanda";
+"New Zealand" = "Selandia Baru";
+"Nigeria" = "Nigeria";
+"Norway" = "Norwegia";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papua Nugini";
+"Philippines" = "Filipina";
+"Poland" = "Polandia";
+"Portugal" = "Portugal";
+"Romania" = "Rumania";
+"Rwanda" = "Rwanda";
+"Saint Lucia" = "Saint Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seychelles";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapura";
+"Slovakia" = "Slovakia";
+"Slovenia" = "Slovenia";
+"South Africa" = "Afrika Selatan";
+"South Korea" = "Korea Selatan";
+"Spain" = "Spanyol";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "Swedia";
+"Switzerland" = "Swiss";
+"Tanzania" = "Tanzania";
+"Thailand" = "Thailand";
+"Trinidad and Tobago" = "Trinidad dan Tobago";
+"Uganda" = "Uganda";
+"United Kingdom" = "Inggris Raya";
+"Ukraine" = "Ukraina";
+"United States" = "Amerika Serikat";
+"Vatican City" = "Vatikan";
+"Zambia" = "Zambia";
+"Zimbabwe" = "Zimbabwe";
+
+// Languages
+"English" = "Inggris";
+"Vietnamese" = "Vietnam";
+"Portuguese (Brazil)" = "Portugis (Brasil)";
+"Ukrainian" = "Ukraina";
+"Italian" = "Italia";
+"Chinese (Traditional)" = "Tionghoa (Tradisional)";
+"Korean" = "Korea";
+"German" = "Jerman";
+"Chinese (Simplified)" = "Tionghoa (Sederhana)";
+"Japanese" = "Jepang";
+"Indonesian" = "Indonesia";
+"Dutch" = "Belanda";
+"French" = "Prancis";
+"Thai" = "Thai";
+"Spanish" = "Spanyol";
+"Turkish" = "Turki";
+"Polish" = "Polandia";
+"Arabic" = "Arab";
+"Russian" = "Rusia";
+"Hindi" = "Hindi";
+"Norwegian" = "Norwegia";

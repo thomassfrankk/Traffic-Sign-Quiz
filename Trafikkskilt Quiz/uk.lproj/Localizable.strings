@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Вікторина дорожніх знаків";
+"Let's Play" = "Розпочати гру";
+"Training Zone" = "Тренувальна зона";
+"Updating" = "Оновлення";
+
+"Language not supported" = "Мова не підтримується";
+"Use English" = "Використати англійську";
+"language_not_supported_for_country" = "%@ не підтримується для %@.";
+"Translation required" = "Потрібен переклад";
+"Translate" = "Перекласти";
+"use_country" = "Використати %@";
+"view_content_in_language" = "Переглянути цей вміст %@?";
+"Update complete" = "Оновлення завершено";
+"Translating" = "Переклад";
+"Translation complete" = "Переклад завершено";
+"Translation failed" = "Помилка перекладу";
+
+// Settings
+"Settings" = "Налаштування";
+"Loading Settings…" = "Завантаження налаштувань…";
+"Select Language" = "Оберіть мову";
+"Notifications" = "Сповіщення";
+"Enable Notifications" = "Увімкнути сповіщення";
+"Allow" = "Дозволити";
+"Game Effects" = "Ігрові ефекти";
+"Sound Effects" = "Звукові ефекти";
+"Haptics" = "Вібрація";
+"Premium" = "Преміум";
+"You have Premium access" = "У вас є доступ Преміум";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Насолоджуйтесь без реклами. Дякуємо за підтримку застосунку.";
+"Upgrade to Premium" = "Перейти на Преміум";
+"Support the app and enjoy an ad-free experience" = "Підтримайте застосунок і насолоджуйтесь без реклами";
+"Remove Ads" = "Прибрати рекламу";
+"Restore Purchases" = "Відновити покупки";
+"Loading…" = "Завантаження…";
+"Privacy Policy" = "Політика конфіденційності";
+"Read the policy" = "Прочитати політику";
+"App Version:" = "Версія застосунку:";
+
+// Country Info View
+"Information" = "Інформація";
+
+"TrafficRules" = "Правила дорожнього руху";
+
+"Driving_Side" = "Сторона\nруху";
+"Alcohol_Limit" = "Ліміт\nалкоголю";
+"Emergency_Number" = "Екстрений\nномер";
+
+"Driving_Side_small" = "Сторона\nруху";
+"Alcohol_Limit_small" = "Ліміт\nалкоголю";
+"Emergency_Number_small" = "Екстрений\nномер";
+
+"Driving_Side_pad" = "Сторона руху";
+"Alcohol_Limit_pad" = "Ліміт алкоголю";
+"Emergency_Number_pad" = "Екстрений номер";
+
+"Right" = "Права";
+"Left" = "Ліва";
+
+"Traffic Rules" = "Правила дорожнього руху";
+"Speed Limits" = "Обмеження швидкості";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Ці обмеження швидкості діють там, де не вказані інші обмеження. Важливо дотримуватися обмежень швидкості та коригувати водіння залежно від умов, таких як погана видимість або слизька дорога.";
+"Urban" = "Місто";
+"Rural" = "За містом";
+"Motorway" = "Автомагістраль";
+"km/h" = "км/год";
+"mph" = "миль/год";
+
+// Pick Game View
+"Pick a Game" = "Оберіть гру";
+"Choose Your Drive. Own the road." = "Оберіть свій шлях. Володійте дорогою.";
+"Grand Tour" = "Гранд-тур";
+"Mixed Quiz" = "Змішана вікторина";
+"Beat the Clock" = "Гонка з часом";
+"Flip & Match" = "Переверни і знайди";
+"All signs. Section by section. Limited lives." = "Усі знаки. Розділ за розділом. Обмежені життя.";
+"All signs. Section by section. One life." = "Усі знаки. Розділ за розділом. Одне життя.";
+"Random signs. Decreasing time limit. Three Lives." = "Випадкові знаки. Зменшення часу. Три життя.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Стежте за таймером. Продовжуйте рух. Заробляйте або втрачайте секунди.";
+"Flip the cards. Find the match. Test your memory." = "Перегортайте картки. Знайдіть пару. Перевірте пам'ять.";
+"Play" = "Грати";
+"HIGH SCORE: %d SIGNS" = "РЕКОРД: %d ЗНАКІВ";
+"NO HIGH SCORE" = "НЕМАЄ РЕКОРДУ";
+"BONUS GAME" = "БОНУСНА ГРА";
+"COMPLETED" = "ЗАВЕРШЕНО";
+"Play Now" = "Грати зараз";
+"Play Quiz" = "Грати вікторину";
+"Start Tour" = "Розпочати тур";
+
+"Restart Grand Tour?" = "Перезапустити Гран-тур?";
+"Restart" = "Перезапустити";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Це видалить всі найвищі результати розділів та підрозділів і скине ваш прогрес у турі. Цю дію неможливо скасувати.";
+
+"section_of_format" = "Розділ %d з %d";
+
+// Game Intro
+"Get Ready" = "Приготуйтеся";
+"signs_life" = "%d знаків - %d життя";
+"signs_lives" = "%d знаків - %d життів";
+"amount_signs" = "%d знаків";
+"3 Lives" = "3 життя";
+"60 Seconds" = "60 секунд";
+"5 Lives" = "5 життів";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Вивчіть правила. Переможіть гру.";
+"%d signs" = "%d знаків";
+"High Score: 0%" = "Рекорд: 0%";
+"Start Quiz" = "Розпочати вікторину";
+"Driver's Guide" = "Посібник водія";
+
+// Learn Signs View
+"Explore each category below." = "Вивчіть кожну категорію нижче.";
+"Explore all the signs below." = "Вивчіть усі знаки нижче.";
+
+// Mistakes View
+"info_missed_one_sub" = "Ви помилилися з 1 знаком з **%@** у **%@**. Опануйте його перед наступною поїздкою.";
+"info_missed_many_sub" = "Ви помилилися з %d знаками з **%@** у **%@**. Повторіть їх і залишайтеся на курсі.";
+"info_missed_one_section" = "Ви помилилися з 1 знаком з **%@**. Повторіть його перед наступною поїздкою.";
+"info_missed_many_section" = "Ви помилилися з %d знаками з **%@**. Повторіть їх перед наступною поїздкою.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Приготуйтеся!";
+"Memorize" = "Запам'ятайте";
+"Get ready for next Round" = "Приготуйтеся до наступного раунду";
+"memory_round" = "Раунд %d";
+"+3 Lives" = "+3 життя";
+
+// Alerts
+"Exit quiz?" = "Вийти з вікторини?";
+"Exit game?" = "Вийти з гри?";
+"You will lose your progress in this quiz." = "Ви втратите прогрес у цій вікторині.";
+"You will lose your progress in this game." = "Ви втратите прогрес у цій грі.";
+"Cancel" = "Скасувати";
+"Exit" = "Вийти";
+
+// Image Errors
+"no_images_available" = "Немає доступних зображень для %@";
+"failed_to_load_image" = "Не вдалося завантажити зображення для %@";
+
+// Game Completion View
+"quiz_practise_result" = "%d з %d правильних";
+"quiz_correct_sign" = "Правильний знак";
+"quiz_correct_signs" = "Правильні знаки";
+"NEW HIGH SCORE" = "НОВИЙ РЕКОРД";
+"High Score:" = "Рекорд:";
+"Review Mistakes" = "Переглянути помилки";
+
+"Tour Complete" = "Тур завершено";
+"Section Passed" = "Розділ пройдено";
+"Game Over" = "Гра закінчена";
+"Game Complete" = "Гру завершено";
+"Time's Up!" = "Час вийшов!";
+"Section Complete" = "Розділ завершено";
+
+"Restart Tour" = "Перезапустити тур";
+"Continue to Elite" = "Продовжити в Еліту";
+"Continue" = "Продовжити";
+"Try Again" = "Спробувати знову";
+
+"Recorded Errors" = "Записані помилки";
+"Incorrect Answers" = "Неправильні відповіді";
+"Overview" = "Огляд";
+"100% required to pass" = "Потрібно 100% для проходження";
+"80% required to pass" = "Потрібно 80% для проходження";
+
+"signs" = "знаків";
+
+"questions correctly" = "питань правильно";
+"Try Again" = "Спробувати знову";
+"Back to Menu" = "Назад до меню";
+
+"Region" = "Регіон";
+"Country" = "Країна";
+
+"High Score: %d%%" = "Рекорд: %d%%";
+
+// Initial Setup
+"Welcome to" = "Ласкаво просимо до";
+"Let's Get Started" = "Почнімо";
+"Select country" = "Оберіть країну";
+"Select language" = "Оберіть мову";
+"Switch countries anytime from the home screen" = "Змінюйте країну будь-коли з головного екрана";
+"Continue" = "Продовжити";
+"Stay Informed" = "Залишайтеся в курсі";
+"We couldn't activate notifications. Please try again." = "Не вдалося активувати сповіщення. Спробуйте ще раз.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Отримуйте оновлення про нові знаки, випуски функцій та важливі сповіщення.";
+"Skip" = "Пропустити";
+"Enable" = "Увімкнути";
+"Downloading Signs" = "Завантаження знаків";
+"Buckle Up" = "Пристебніться";
+"Ready to hit the road!" = "Готові в дорогу!";
+"Fuel Required" = "Потрібне паливо";
+"Fueling Up!" = "Заправка!";
+"Car is Ready" = "Машина готова";
+"Download Signs" = "Завантажити знаки";
+"Download the traffic signs to get started" = "Завантажте дорожні знаки, щоб почати";
+"Downloading traffic signs and challenges." = "Завантаження дорожніх знаків та випробувань.";
+"Test your knowledge and master traffic rules." = "Перевірте свої знання та опануйте правила дорожнього руху.";
+"Let's Go" = "Поїхали";
+
+// Countries
+"Andorra" = "Андорра";
+"Australia" = "Австралія";
+"Austria" = "Австрія";
+"Bahamas" = "Багами";
+"Barbados" = "Барбадос";
+"Belgium" = "Бельгія";
+"Belize" = "Беліз";
+"Botswana" = "Ботсвана";
+"Brunei" = "Бруней";
+"Bulgaria" = "Болгарія";
+"Canada" = "Канада";
+"Croatia" = "Хорватія";
+"Cyprus" = "Кіпр";
+"Czech Republic" = "Чехія";
+"Denmark" = "Данія";
+"Dominica" = "Домініка";
+"Estonia" = "Естонія";
+"Fiji" = "Фіджі";
+"Finland" = "Фінляндія";
+"France" = "Франція";
+"Gambia" = "Гамбія";
+"Germany" = "Німеччина";
+"Ghana" = "Гана";
+"Greece" = "Греція";
+"Grenada" = "Гренада";
+"Guyana" = "Гаяна";
+"Hungary" = "Угорщина";
+"Iceland" = "Ісландія";
+"India" = "Індія";
+"Ireland" = "Ірландія";
+"Italy" = "Італія";
+"Jamaica" = "Ямайка";
+"Japan" = "Японія";
+"Kenya" = "Кенія";
+"Latvia" = "Латвія";
+"Lesotho" = "Лесото";
+"Liberia" = "Ліберія";
+"Liechtenstein" = "Ліхтенштейн";
+"Lithuania" = "Литва";
+"Luxembourg" = "Люксембург";
+"Malta" = "Мальта";
+"Malaysia" = "Малайзія";
+"Mauritius" = "Маврикій";
+"Monaco" = "Монако";
+"Namibia" = "Намібія";
+"Netherlands" = "Нідерланди";
+"New Zealand" = "Нова Зеландія";
+"Nigeria" = "Нігерія";
+"Norway" = "Норвегія";
+"Pakistan" = "Пакистан";
+"Papua New Guinea" = "Папуа-Нова Гвінея";
+"Philippines" = "Філіппіни";
+"Poland" = "Польща";
+"Portugal" = "Португалія";
+"Romania" = "Румунія";
+"Rwanda" = "Руанда";
+"Saint Lucia" = "Сент-Люсія";
+"San Marino" = "Сан-Марино";
+"Seychelles" = "Сейшели";
+"Sierra Leone" = "Сьєрра-Леоне";
+"Singapore" = "Сінгапур";
+"Slovakia" = "Словаччина";
+"Slovenia" = "Словенія";
+"South Africa" = "ПАР";
+"South Korea" = "Південна Корея";
+"Spain" = "Іспанія";
+"Sri Lanka" = "Шрі-Ланка";
+"Sweden" = "Швеція";
+"Switzerland" = "Швейцарія";
+"Tanzania" = "Танзанія";
+"Thailand" = "Таїланд";
+"Trinidad and Tobago" = "Тринідад і Тобаго";
+"Uganda" = "Уганда";
+"United Kingdom" = "Велика Британія";
+"Ukraine" = "Україна";
+"United States" = "США";
+"Vatican City" = "Ватикан";
+"Zambia" = "Замбія";
+"Zimbabwe" = "Зімбабве";
+
+// Languages
+"English" = "Англійська";
+"Vietnamese" = "В'єтнамська";
+"Portuguese (Brazil)" = "Португальська (Бразилія)";
+"Ukrainian" = "Українська";
+"Italian" = "Італійська";
+"Chinese (Traditional)" = "Китайська (традиційна)";
+"Korean" = "Корейська";
+"German" = "Німецька";
+"Chinese (Simplified)" = "Китайська (спрощена)";
+"Japanese" = "Японська";
+"Indonesian" = "Індонезійська";
+"Dutch" = "Нідерландська";
+"French" = "Французька";
+"Thai" = "Тайська";
+"Spanish" = "Іспанська";
+"Turkish" = "Турецька";
+"Polish" = "Польська";
+"Arabic" = "Арабська";
+"Russian" = "Російська";
+"Hindi" = "Гінді";
+"Norwegian" = "Норвезька";

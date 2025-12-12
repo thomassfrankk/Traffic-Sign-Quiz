@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "Verkehrsschilder-Quiz";
+"Let's Play" = "Spiel starten";
+"Training Zone" = "Trainingsbereich";
+"Updating" = "Aktualisierung";
+
+"Language not supported" = "Sprache nicht unterstützt";
+"Use English" = "Englisch verwenden";
+"language_not_supported_for_country" = "%@ wird für %@ nicht unterstützt.";
+"Translation required" = "Übersetzung erforderlich";
+"Translate" = "Übersetzen";
+"use_country" = "%@ verwenden";
+"view_content_in_language" = "Diesen Inhalt auf %@ anzeigen?";
+"Update complete" = "Aktualisierung abgeschlossen";
+"Translating" = "Übersetzung läuft";
+"Translation complete" = "Übersetzung abgeschlossen";
+"Translation failed" = "Übersetzung fehlgeschlagen";
+
+// Settings
+"Settings" = "Einstellungen";
+"Loading Settings…" = "Einstellungen werden geladen…";
+"Select Language" = "Sprache auswählen";
+"Notifications" = "Benachrichtigungen";
+"Enable Notifications" = "Benachrichtigungen aktivieren";
+"Allow" = "Erlauben";
+"Game Effects" = "Spieleffekte";
+"Sound Effects" = "Soundeffekte";
+"Haptics" = "Haptisches Feedback";
+"Premium" = "Premium";
+"You have Premium access" = "Sie haben Premium-Zugang";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "Genießen Sie ein werbefreies Erlebnis. Vielen Dank für Ihre Unterstützung.";
+"Upgrade to Premium" = "Auf Premium upgraden";
+"Support the app and enjoy an ad-free experience" = "Unterstützen Sie die App und genießen Sie ein werbefreies Erlebnis";
+"Remove Ads" = "Werbung entfernen";
+"Restore Purchases" = "Käufe wiederherstellen";
+"Loading…" = "Lädt…";
+"Privacy Policy" = "Datenschutzrichtlinie";
+"Read the policy" = "Richtlinie lesen";
+"App Version:" = "App-Version:";
+
+// Country Info View
+"Information" = "Informationen";
+
+"TrafficRules" = "Verkehrsregeln";
+
+"Driving_Side" = "Fahrtrichtung";
+"Alcohol_Limit" = "Alkoholgrenze";
+"Emergency_Number" = "Notrufnummer";
+
+"Driving_Side_small" = "Fahrtrichtung";
+"Alcohol_Limit_small" = "Alkohol\nGrenze";
+"Emergency_Number_small" = "Notruf\nNummer";
+
+"Driving_Side_pad" = "Fahrtrichtung";
+"Alcohol_Limit_pad" = "Alkoholgrenze";
+"Emergency_Number_pad" = "Notrufnummer";
+
+"Right" = "Rechts";
+"Left" = "Links";
+
+"Traffic Rules" = "Verkehrsregeln";
+"Speed Limits" = "Geschwindigkeitsbegrenzungen";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "Diese Geschwindigkeitsbegrenzungen gelten, wo keine anderen Limits ausgeschildert sind. Es ist wichtig, die Geschwindigkeitsbegrenzungen einzuhalten und Ihre Fahrweise an Bedingungen wie schlechte Sicht oder rutschige Straßen anzupassen.";
+"Urban" = "Innerorts";
+"Rural" = "Außerorts";
+"Motorway" = "Autobahn";
+"km/h" = "km/h";
+"mph" = "mph";
+
+// Pick Game View
+"Pick a Game" = "Wähle ein Spiel";
+"Choose Your Drive. Own the road." = "Wähle deine Fahrt. Beherrsche die Straße.";
+"Grand Tour" = "Grand Tour";
+"Mixed Quiz" = "Gemischtes Quiz";
+"Beat the Clock" = "Zeitrennen";
+"Flip & Match" = "Umdrehen & Zuordnen";
+"All signs. Section by section. Limited lives." = "Alle Schilder. Abschnitt für Abschnitt. Begrenzte Leben.";
+"All signs. Section by section. One life." = "Alle Schilder. Abschnitt für Abschnitt. Ein Leben.";
+"Random signs. Decreasing time limit. Three Lives." = "Zufällige Schilder. Abnehmende Zeit. Drei Leben.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "Beobachte den Timer. Bleib in Bewegung. Gewinne oder verliere Sekunden.";
+"Flip the cards. Find the match. Test your memory." = "Dreh die Karten um. Finde das Paar. Teste dein Gedächtnis.";
+"Play" = "Spielen";
+"HIGH SCORE: %d SIGNS" = "HIGHSCORE: %d SCHILDER";
+"NO HIGH SCORE" = "KEIN HIGHSCORE";
+"BONUS GAME" = "BONUSSPIEL";
+"COMPLETED" = "ABGESCHLOSSEN";
+"Play Now" = "Jetzt spielen";
+"Play Quiz" = "Quiz starten";
+"Start Tour" = "Tour starten";
+
+"Restart Grand Tour?" = "Grand Tour neu starten?";
+"Restart" = "Neu starten";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "Dies löscht alle Bestwerte der Abschnitte und Unterabschnitte und setzt deinen Fortschritt im Tour-Modus zurück. Diese Aktion kann nicht rückgängig gemacht werden.";
+
+"section_of_format" = "Abschnitt %d von %d";
+
+// Game Intro
+"Get Ready" = "Mach dich bereit";
+"signs_life" = "%d Schilder - %d Leben";
+"signs_lives" = "%d Schilder - %d Leben";
+"amount_signs" = "%d Schilder";
+"3 Lives" = "3 Leben";
+"60 Seconds" = "60 Sekunden";
+"5 Lives" = "5 Leben";
+
+// Training Zone
+"Learn the rules. Beat the game." = "Lerne die Regeln. Meistere das Spiel.";
+"%d signs" = "%d Schilder";
+"High Score: 0%" = "Highscore: 0%";
+"Start Quiz" = "Quiz starten";
+"Driver's Guide" = "Fahrerhandbuch";
+
+// Learn Signs View
+"Explore each category below." = "Erkunde jede Kategorie unten.";
+"Explore all the signs below." = "Erkunde alle Schilder unten.";
+
+// Mistakes View
+"info_missed_one_sub" = "Du hast 1 Schild von **%@** in **%@** verpasst. Beherrsche es vor deiner nächsten Fahrt.";
+"info_missed_many_sub" = "Du hast %d Schilder von **%@** in **%@** verpasst. Wiederhole sie und bleib auf Kurs.";
+"info_missed_one_section" = "Du hast 1 Schild von **%@** verpasst. Übe es vor der nächsten Fahrt.";
+"info_missed_many_section" = "Du hast %d Schilder von **%@** verpasst. Übe sie vor der nächsten Fahrt.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "Mach dich bereit!";
+"Memorize" = "Einprägen";
+"Get ready for next Round" = "Mach dich bereit für die nächste Runde";
+"memory_round" = "Runde %d";
+"+3 Lives" = "+3 Leben";
+
+// Alerts
+"Exit quiz?" = "Quiz beenden?";
+"Exit game?" = "Spiel beenden?";
+"You will lose your progress in this quiz." = "Du verlierst deinen Fortschritt in diesem Quiz.";
+"You will lose your progress in this game." = "Du verlierst deinen Fortschritt in diesem Spiel.";
+"Cancel" = "Abbrechen";
+"Exit" = "Beenden";
+
+// Image Errors
+"no_images_available" = "Keine Bilder verfügbar für %@";
+"failed_to_load_image" = "Bild konnte nicht geladen werden für %@";
+
+// Game Completion View
+"quiz_practise_result" = "%d von %d richtig";
+"quiz_correct_sign" = "Richtiges Schild";
+"quiz_correct_signs" = "Richtige Schilder";
+"NEW HIGH SCORE" = "NEUER HIGHSCORE";
+"High Score:" = "Highscore:";
+"Review Mistakes" = "Fehler überprüfen";
+
+"Tour Complete" = "Tour abgeschlossen";
+"Section Passed" = "Abschnitt bestanden";
+"Game Over" = "Spiel vorbei";
+"Game Complete" = "Spiel abgeschlossen";
+"Time's Up!" = "Zeit ist um!";
+"Section Complete" = "Abschnitt abgeschlossen";
+
+"Restart Tour" = "Tour neu starten";
+"Continue to Elite" = "Weiter zu Elite";
+"Continue" = "Weiter";
+"Try Again" = "Nochmal versuchen";
+
+"Recorded Errors" = "Aufgezeichnete Fehler";
+"Incorrect Answers" = "Falsche Antworten";
+"Overview" = "Übersicht";
+"100% required to pass" = "100% erforderlich zum Bestehen";
+"80% required to pass" = "80% erforderlich zum Bestehen";
+
+"signs" = "Schilder";
+
+"questions correctly" = "Fragen richtig";
+"Try Again" = "Nochmal versuchen";
+"Back to Menu" = "Zurück zum Menü";
+
+"Region" = "Region";
+"Country" = "Land";
+
+"High Score: %d%%" = "Höchstpunktzahl: %d%%";
+
+// Initial Setup
+"Welcome to" = "Willkommen bei";
+"Let's Get Started" = "Fangen wir an";
+"Select country" = "Land auswählen";
+"Select language" = "Sprache auswählen";
+"Switch countries anytime from the home screen" = "Wechsle jederzeit das Land vom Startbildschirm aus";
+"Continue" = "Weiter";
+"Stay Informed" = "Bleib informiert";
+"We couldn't activate notifications. Please try again." = "Benachrichtigungen konnten nicht aktiviert werden. Bitte versuche es erneut.";
+"Stay updated with new signs, feature releases, and important app notifications." = "Bleib auf dem Laufenden mit neuen Schildern, Feature-Updates und wichtigen App-Benachrichtigungen.";
+"Skip" = "Überspringen";
+"Enable" = "Aktivieren";
+"Downloading Signs" = "Schilder werden heruntergeladen";
+"Buckle Up" = "Anschnallen";
+"Ready to hit the road!" = "Bereit für die Straße!";
+"Fuel Required" = "Kraftstoff erforderlich";
+"Fueling Up!" = "Tanken!";
+"Car is Ready" = "Auto ist bereit";
+"Download Signs" = "Schilder herunterladen";
+"Download the traffic signs to get started" = "Lade die Verkehrsschilder herunter, um zu beginnen";
+"Downloading traffic signs and challenges." = "Verkehrsschilder und Herausforderungen werden heruntergeladen.";
+"Test your knowledge and master traffic rules." = "Teste dein Wissen und beherrsche die Verkehrsregeln.";
+"Let's Go" = "Los geht's";
+
+// Countries
+"Andorra" = "Andorra";
+"Australia" = "Australien";
+"Austria" = "Österreich";
+"Bahamas" = "Bahamas";
+"Barbados" = "Barbados";
+"Belgium" = "Belgien";
+"Belize" = "Belize";
+"Botswana" = "Botswana";
+"Brunei" = "Brunei";
+"Bulgaria" = "Bulgarien";
+"Canada" = "Kanada";
+"Croatia" = "Kroatien";
+"Cyprus" = "Zypern";
+"Czech Republic" = "Tschechien";
+"Denmark" = "Dänemark";
+"Dominica" = "Dominica";
+"Estonia" = "Estland";
+"Fiji" = "Fidschi";
+"Finland" = "Finnland";
+"France" = "Frankreich";
+"Gambia" = "Gambia";
+"Germany" = "Deutschland";
+"Ghana" = "Ghana";
+"Greece" = "Griechenland";
+"Grenada" = "Grenada";
+"Guyana" = "Guyana";
+"Hungary" = "Ungarn";
+"Iceland" = "Island";
+"India" = "Indien";
+"Ireland" = "Irland";
+"Italy" = "Italien";
+"Jamaica" = "Jamaika";
+"Japan" = "Japan";
+"Kenya" = "Kenia";
+"Latvia" = "Lettland";
+"Lesotho" = "Lesotho";
+"Liberia" = "Liberia";
+"Liechtenstein" = "Liechtenstein";
+"Lithuania" = "Litauen";
+"Luxembourg" = "Luxemburg";
+"Malta" = "Malta";
+"Malaysia" = "Malaysia";
+"Mauritius" = "Mauritius";
+"Monaco" = "Monaco";
+"Namibia" = "Namibia";
+"Netherlands" = "Niederlande";
+"New Zealand" = "Neuseeland";
+"Nigeria" = "Nigeria";
+"Norway" = "Norwegen";
+"Pakistan" = "Pakistan";
+"Papua New Guinea" = "Papua-Neuguinea";
+"Philippines" = "Philippinen";
+"Poland" = "Polen";
+"Portugal" = "Portugal";
+"Romania" = "Rumänien";
+"Rwanda" = "Ruanda";
+"Saint Lucia" = "St. Lucia";
+"San Marino" = "San Marino";
+"Seychelles" = "Seychellen";
+"Sierra Leone" = "Sierra Leone";
+"Singapore" = "Singapur";
+"Slovakia" = "Slowakei";
+"Slovenia" = "Slowenien";
+"South Africa" = "Südafrika";
+"South Korea" = "Südkorea";
+"Spain" = "Spanien";
+"Sri Lanka" = "Sri Lanka";
+"Sweden" = "Schweden";
+"Switzerland" = "Schweiz";
+"Tanzania" = "Tansania";
+"Thailand" = "Thailand";
+"Trinidad and Tobago" = "Trinidad und Tobago";
+"Uganda" = "Uganda";
+"United Kingdom" = "Vereinigtes Königreich";
+"Ukraine" = "Ukraine";
+"United States" = "Vereinigte Staaten";
+"Vatican City" = "Vatikanstadt";
+"Zambia" = "Sambia";
+"Zimbabwe" = "Simbabwe";
+
+// Languages
+"English" = "Englisch";
+"Vietnamese" = "Vietnamesisch";
+"Portuguese (Brazil)" = "Portugiesisch (Brasilien)";
+"Ukrainian" = "Ukrainisch";
+"Italian" = "Italienisch";
+"Chinese (Traditional)" = "Chinesisch (Traditionell)";
+"Korean" = "Koreanisch";
+"German" = "Deutsch";
+"Chinese (Simplified)" = "Chinesisch (Vereinfacht)";
+"Japanese" = "Japanisch";
+"Indonesian" = "Indonesisch";
+"Dutch" = "Niederländisch";
+"French" = "Französisch";
+"Thai" = "Thailändisch";
+"Spanish" = "Spanisch";
+"Turkish" = "Türkisch";
+"Polish" = "Polnisch";
+"Arabic" = "Arabisch";
+"Russian" = "Russisch";
+"Hindi" = "Hindi";
+"Norwegian" = "Norwegisch";

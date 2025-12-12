@@ -1,0 +1,315 @@
+//
+//  Localizable.strings
+//  Trafikkskilt Quiz
+//
+//  Created by Thomas Frank on 22/9/25.
+//
+
+// languageManager.localizedString(for: "Update complete")
+
+// Home Screen
+"Traffic Sign Quiz" = "교통 표지판 퀴즈";
+"Let's Play" = "게임 시작";
+"Training Zone" = "훈련 구역";
+"Updating" = "업데이트 중";
+
+"Language not supported" = "지원되지 않는 언어";
+"Use English" = "영어 사용";
+"language_not_supported_for_country" = "%@은(는) %@에서 지원되지 않습니다.";
+"Translation required" = "번역 필요";
+"Translate" = "번역";
+"use_country" = "%@ 사용";
+"view_content_in_language" = "이 콘텐츠를 %@(으)로 보시겠습니까?";
+"Update complete" = "업데이트 완료";
+"Translating" = "번역 중";
+"Translation complete" = "번역 완료";
+"Translation failed" = "번역 실패";
+
+// Settings
+"Settings" = "설정";
+"Loading Settings…" = "설정 로드 중…";
+"Select Language" = "언어 선택";
+"Notifications" = "알림";
+"Enable Notifications" = "알림 활성화";
+"Allow" = "허용";
+"Game Effects" = "게임 효과";
+"Sound Effects" = "음향 효과";
+"Haptics" = "햅틱";
+"Premium" = "프리미엄";
+"You have Premium access" = "프리미엄 액세스 보유";
+"Enjoy an ad-free experience. Thank you for supporting the app." = "광고 없는 경험을 즐기세요. 앱을 지원해 주셔서 감사합니다.";
+"Upgrade to Premium" = "프리미엄으로 업그레이드";
+"Support the app and enjoy an ad-free experience" = "앱을 지원하고 광고 없는 경험을 즐기세요";
+"Remove Ads" = "광고 제거";
+"Restore Purchases" = "구매 복원";
+"Loading…" = "로드 중…";
+"Privacy Policy" = "개인정보 보호정책";
+"Read the policy" = "정책 읽기";
+"App Version:" = "앱 버전:";
+
+// Country Info View
+"Information" = "정보";
+
+"TrafficRules" = "교통 규칙";
+
+"Driving_Side" = "주행 방향";
+"Alcohol_Limit" = "음주 제한";
+"Emergency_Number" = "긴급 전화";
+
+"Driving_Side_small" = "주행\n방향";
+"Alcohol_Limit_small" = "음주\n제한";
+"Emergency_Number_small" = "긴급\n전화";
+
+"Driving_Side_pad" = "주행 방향";
+"Alcohol_Limit_pad" = "음주 제한";
+"Emergency_Number_pad" = "긴급 전화";
+
+"Right" = "오른쪽";
+"Left" = "왼쪽";
+
+"Traffic Rules" = "교통 규칙";
+"Speed Limits" = "속도 제한";
+"These speed limits apply where no other limits are posted. It's important to follow the speed limits and adjust your driving to conditions such as poor visibility or slippery roads." = "이 속도 제한은 다른 제한 표지가 없는 곳에 적용됩니다. 속도 제한을 준수하고 시야 불량이나 미끄러운 도로와 같은 상황에 맞게 운전을 조정하는 것이 중요합니다.";
+"Urban" = "도심";
+"Rural" = "교외";
+"Motorway" = "고속도로";
+"km/h" = "km/h";
+"mph" = "mph";
+
+// Pick Game View
+"Pick a Game" = "게임 선택";
+"Choose Your Drive. Own the road." = "드라이브를 선택하세요. 도로를 장악하세요.";
+"Grand Tour" = "그랜드 투어";
+"Mixed Quiz" = "혼합 퀴즈";
+"Beat the Clock" = "시간과의 싸움";
+"Flip & Match" = "뒤집고 맞추기";
+"All signs. Section by section. Limited lives." = "모든 표지판. 섹션별. 생명 제한.";
+"All signs. Section by section. One life." = "모든 표지판. 섹션별. 한 생명.";
+"Random signs. Decreasing time limit. Three Lives." = "무작위 표지판. 시간 감소. 세 생명.";
+"Watch the timer. Keep moving. Earn or lose seconds." = "타이머를 보세요. 계속 진행하세요. 초를 얻거나 잃으세요.";
+"Flip the cards. Find the match. Test your memory." = "카드를 뒤집으세요. 일치를 찾으세요. 기억력을 테스트하세요.";
+"Play" = "플레이";
+"HIGH SCORE: %d SIGNS" = "최고 점수: %d개 표지판";
+"NO HIGH SCORE" = "최고 점수 없음";
+"BONUS GAME" = "보너스 게임";
+"COMPLETED" = "완료";
+"Play Now" = "지금 플레이";
+"Play Quiz" = "퀴즈 플레이";
+"Start Tour" = "투어 시작";
+
+"Restart Grand Tour?" = "그랜드 투어를 다시 시작하시겠습니까?";
+"Restart" = "다시 시작";
+"This will erase all section and subsection high scores and reset your tour progress. This action cannot be undone." = "이 작업을 수행하면 모든 섹션 및 하위 섹션의 최고 점수가 삭제되고 투어 진행 상황이 초기화됩니다. 이 작업은 되돌릴 수 없습니다.";
+
+"section_of_format" = "섹션 %d/%d";
+
+// Game Intro
+"Get Ready" = "준비";
+"signs_life" = "%d개 표지판 - %d생명";
+"signs_lives" = "%d개 표지판 - %d생명";
+"amount_signs" = "%d개 표지판";
+"3 Lives" = "3생명";
+"60 Seconds" = "60초";
+"5 Lives" = "5생명";
+
+// Training Zone
+"Learn the rules. Beat the game." = "규칙을 배우세요. 게임을 정복하세요.";
+"%d signs" = "%d개 표지판";
+"High Score: 0%" = "최고 점수: 0%";
+"Start Quiz" = "퀴즈 시작";
+"Driver's Guide" = "운전자 안내서";
+
+// Learn Signs View
+"Explore each category below." = "아래 각 카테고리를 탐색하세요.";
+"Explore all the signs below." = "아래 모든 표지판을 탐색하세요.";
+
+// Mistakes View
+"info_missed_one_sub" = "**%@**의 **%@**에서 1개 표지판을 놓쳤습니다. 다음 주행 전에 마스터하세요.";
+"info_missed_many_sub" = "**%@**의 **%@**에서 %d개 표지판을 놓쳤습니다. 복습하고 정도를 유지하세요.";
+"info_missed_one_section" = "**%@**에서 1개 표지판을 놓쳤습니다. 다음 운전 전에 복습하세요.";
+"info_missed_many_section" = "**%@**에서 %d개 표지판을 놓쳤습니다. 다음 운전 전에 복습하세요.";
+
+// Game View
+// Memory Instructions
+"Get ready!" = "준비!";
+"Memorize" = "암기";
+"Get ready for next Round" = "다음 라운드 준비";
+"memory_round" = "라운드 %d";
+"+3 Lives" = "+3생명";
+
+// Alerts
+"Exit quiz?" = "퀴즈 종료?";
+"Exit game?" = "게임 종료?";
+"You will lose your progress in this quiz." = "이 퀴즈의 진행 상황을 잃게 됩니다.";
+"You will lose your progress in this game." = "이 게임의 진행 상황을 잃게 됩니다.";
+"Cancel" = "취소";
+"Exit" = "종료";
+
+// Image Errors
+"no_images_available" = "%@에 사용 가능한 이미지 없음";
+"failed_to_load_image" = "%@의 이미지 로드 실패";
+
+// Game Completion View
+"quiz_practise_result" = "%d/%d 정답";
+"quiz_correct_sign" = "정답 표지판";
+"quiz_correct_signs" = "정답 표지판";
+"NEW HIGH SCORE" = "신기록";
+"High Score:" = "최고 점수:";
+"Review Mistakes" = "오답 복습";
+
+"Tour Complete" = "투어 완료";
+"Section Passed" = "섹션 통과";
+"Game Over" = "게임 오버";
+"Game Complete" = "게임 완료";
+"Time's Up!" = "시간 종료!";
+"Section Complete" = "섹션 완료";
+
+"Restart Tour" = "투어 재시작";
+"Continue to Elite" = "엘리트로 계속";
+"Continue" = "계속";
+"Try Again" = "다시 시도";
+
+"Recorded Errors" = "기록된 오류";
+"Incorrect Answers" = "오답";
+"Overview" = "개요";
+"100% required to pass" = "통과하려면 100% 필요";
+"80% required to pass" = "통과하려면 80% 필요";
+
+"signs" = "표지판";
+
+"questions correctly" = "문제 정답";
+"Try Again" = "다시 시도";
+"Back to Menu" = "메뉴로 돌아가기";
+
+"Region" = "지역";
+"Country" = "국가";
+
+"High Score: %d%%" = "최고 점수: %d%%";
+
+// Initial Setup
+"Welcome to" = "환영합니다";
+"Let's Get Started" = "시작하기";
+"Select country" = "국가 선택";
+"Select language" = "언어 선택";
+"Switch countries anytime from the home screen" = "홈 화면에서 언제든지 국가를 전환할 수 있습니다";
+"Continue" = "계속";
+"Stay Informed" = "정보 받기";
+"We couldn't activate notifications. Please try again." = "알림을 활성화할 수 없습니다. 다시 시도하세요.";
+"Stay updated with new signs, feature releases, and important app notifications." = "새 표지판, 기능 출시 및 중요한 앱 알림으로 최신 정보를 받으세요.";
+"Skip" = "건너뛰기";
+"Enable" = "활성화";
+"Downloading Signs" = "표지판 다운로드 중";
+"Buckle Up" = "안전벨트 착용";
+"Ready to hit the road!" = "출발 준비 완료!";
+"Fuel Required" = "연료 필요";
+"Fueling Up!" = "주유 중!";
+"Car is Ready" = "차량 준비 완료";
+"Download Signs" = "표지판 다운로드";
+"Download the traffic signs to get started" = "시작하려면 교통 표지판을 다운로드하세요";
+"Downloading traffic signs and challenges." = "교통 표지판 및 챌린지 다운로드 중.";
+"Test your knowledge and master traffic rules." = "지식을 테스트하고 교통 규칙을 마스터하세요.";
+"Let's Go" = "출발";
+
+// Countries
+"Andorra" = "안도라";
+"Australia" = "호주";
+"Austria" = "오스트리아";
+"Bahamas" = "바하마";
+"Barbados" = "바베이도스";
+"Belgium" = "벨기에";
+"Belize" = "벨리즈";
+"Botswana" = "보츠와나";
+"Brunei" = "브루나이";
+"Bulgaria" = "불가리아";
+"Canada" = "캐나다";
+"Croatia" = "크로아티아";
+"Cyprus" = "키프로스";
+"Czech Republic" = "체코";
+"Denmark" = "덴마크";
+"Dominica" = "도미니카";
+"Estonia" = "에스토니아";
+"Fiji" = "피지";
+"Finland" = "핀란드";
+"France" = "프랑스";
+"Gambia" = "감비아";
+"Germany" = "독일";
+"Ghana" = "가나";
+"Greece" = "그리스";
+"Grenada" = "그레나다";
+"Guyana" = "가이아나";
+"Hungary" = "헝가리";
+"Iceland" = "아이슬란드";
+"India" = "인도";
+"Ireland" = "아일랜드";
+"Italy" = "이탈리아";
+"Jamaica" = "자메이카";
+"Japan" = "일본";
+"Kenya" = "케냐";
+"Latvia" = "라트비아";
+"Lesotho" = "레소토";
+"Liberia" = "라이베리아";
+"Liechtenstein" = "리히텐슈타인";
+"Lithuania" = "리투아니아";
+"Luxembourg" = "룩셈부르크";
+"Malta" = "몰타";
+"Malaysia" = "말레이시아";
+"Mauritius" = "모리셔스";
+"Monaco" = "모나코";
+"Namibia" = "나미비아";
+"Netherlands" = "네덜란드";
+"New Zealand" = "뉴질랜드";
+"Nigeria" = "나이지리아";
+"Norway" = "노르웨이";
+"Pakistan" = "파키스탄";
+"Papua New Guinea" = "파푸아뉴기니";
+"Philippines" = "필리핀";
+"Poland" = "폴란드";
+"Portugal" = "포르투갈";
+"Romania" = "루마니아";
+"Rwanda" = "르완다";
+"Saint Lucia" = "세인트루시아";
+"San Marino" = "산마리노";
+"Seychelles" = "세이셸";
+"Sierra Leone" = "시에라리온";
+"Singapore" = "싱가포르";
+"Slovakia" = "슬로바키아";
+"Slovenia" = "슬로베니아";
+"South Africa" = "남아프리카공화국";
+"South Korea" = "대한민국";
+"Spain" = "스페인";
+"Sri Lanka" = "스리랑카";
+"Sweden" = "스웨덴";
+"Switzerland" = "스위스";
+"Tanzania" = "탄자니아";
+"Thailand" = "태국";
+"Trinidad and Tobago" = "트리니다드 토바고";
+"Uganda" = "우간다";
+"United Kingdom" = "영국";
+"Ukraine" = "우크라이나";
+"United States" = "미국";
+"Vatican City" = "바티칸";
+"Zambia" = "잠비아";
+"Zimbabwe" = "짐바브웨";
+
+// Languages
+"English" = "영어";
+"Vietnamese" = "베트남어";
+"Portuguese (Brazil)" = "포르투갈어(브라질)";
+"Ukrainian" = "우크라이나어";
+"Italian" = "이탈리아어";
+"Chinese (Traditional)" = "중국어(번체)";
+"Korean" = "한국어";
+"German" = "독일어";
+"Chinese (Simplified)" = "중국어(간체)";
+"Japanese" = "일본어";
+"Indonesian" = "인도네시아어";
+"Dutch" = "네덜란드어";
+"French" = "프랑스어";
+"Thai" = "태국어";
+"Spanish" = "스페인어";
+"Turkish" = "터키어";
+"Polish" = "폴란드어";
+"Arabic" = "아랍어";
+"Russian" = "러시아어";
+"Hindi" = "힌디어";
+"Norwegian" = "노르웨이어";
